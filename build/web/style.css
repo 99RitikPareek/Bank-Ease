@@ -1,0 +1,33 @@
+body{
+            background-image: url('backk.jpeg');
+            background-size:100%;
+            background-repeat:no-repeat;
+        }
+         
+        .tabtheme{
+            font-size: 32px;
+            color:#cccccc;
+            text-transform: uppercase;
+            text-align:center;
+            font-family: arial;
+            background-color: highlighttext;
+            height: 20px;
+        }       
+        .box:hover{
+            background-color:gray
+                ; 
+        }
+        .title{
+                margin-left:300px;
+                color:white;
+                text-transform: uppercase;
+                font-family:arial;
+                font-size: 50px;
+        }
+        .titletab{
+            margin-left:500px;
+            margin-top:200px;
+            
+            
+        }
+   

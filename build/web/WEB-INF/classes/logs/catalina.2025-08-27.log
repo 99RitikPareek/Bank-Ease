@@ -1,0 +1,1007 @@
+27-Aug-2025 10:03:54.979 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.107
+27-Aug-2025 10:03:54.989 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Jul 2 2025 07:01:03 UTC
+27-Aug-2025 10:03:54.990 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.107.0
+27-Aug-2025 10:03:54.990 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Mac OS X
+27-Aug-2025 10:03:54.990 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            15.5
+27-Aug-2025 10:03:54.990 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          x86_64
+27-Aug-2025 10:03:54.990 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /Applications/Apache NetBeans.app/Contents/Home
+27-Aug-2025 10:03:54.991 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           23.0.2+7
+27-Aug-2025 10:03:54.991 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Azul Systems, Inc.
+27-Aug-2025 10:03:54.991 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /Users/ritikpareek/Softwares/apache-tomcat-9.0.107 2
+27-Aug-2025 10:03:54.991 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /Users/ritikpareek/Softwares/apache-tomcat-9.0.107 2
+27-Aug-2025 10:03:55.016 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+27-Aug-2025 10:03:55.017 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang.invoke=ALL-UNNAMED
+27-Aug-2025 10:03:55.017 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang.reflect=ALL-UNNAMED
+27-Aug-2025 10:03:55.018 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+27-Aug-2025 10:03:55.018 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+27-Aug-2025 10:03:55.018 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+27-Aug-2025 10:03:55.019 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+27-Aug-2025 10:03:55.020 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/Users/ritikpareek/Softwares/apache-tomcat-9.0.107 2/conf/logging.properties
+27-Aug-2025 10:03:55.020 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+27-Aug-2025 10:03:55.020 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dhttp.nonProxyHosts=localhost|127.0.0.1|Ritiks-MacBook-Air.local
+27-Aug-2025 10:03:55.020 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+27-Aug-2025 10:03:55.020 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+27-Aug-2025 10:03:55.022 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.io.useCanonCaches=false
+27-Aug-2025 10:03:55.022 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+27-Aug-2025 10:03:55.022 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+27-Aug-2025 10:03:55.022 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/Users/ritikpareek/Softwares/apache-tomcat-9.0.107 2
+27-Aug-2025 10:03:55.022 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/Users/ritikpareek/Softwares/apache-tomcat-9.0.107 2
+27-Aug-2025 10:03:55.022 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/Users/ritikpareek/Softwares/apache-tomcat-9.0.107 2/temp
+27-Aug-2025 10:03:55.033 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/Users/ritikpareek/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+27-Aug-2025 10:03:55.783 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8086"]
+27-Aug-2025 10:03:55.852 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [1177] milliseconds
+27-Aug-2025 10:03:55.934 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+27-Aug-2025 10:03:55.934 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.107]
+27-Aug-2025 10:03:55.943 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [/Users/ritikpareek/Softwares/apache-tomcat-9.0.107 2/conf/Catalina/localhost/Bank-Ease.xml]
+27-Aug-2025 10:03:55.960 WARNING [main] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/Bank-Ease] in deployment descriptor [/Users/ritikpareek/Softwares/apache-tomcat-9.0.107 2/conf/Catalina/localhost/Bank-Ease.xml] has been ignored
+27-Aug-2025 10:03:56.187 WARNING [main] org.apache.tomcat.util.descriptor.web.WebXml.setVersion Unknown version string [6.1]. Default version will be used.
+27-Aug-2025 10:03:56.734 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+27-Aug-2025 10:03:56.824 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [/Users/ritikpareek/Softwares/apache-tomcat-9.0.107 2/conf/Catalina/localhost/Bank-Ease.xml] has finished in [880] ms
+27-Aug-2025 10:03:56.825 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [/Users/ritikpareek/Softwares/apache-tomcat-9.0.107 2/conf/Catalina/localhost/TestWeb.xml]
+27-Aug-2025 10:03:56.827 WARNING [main] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/TestWeb] in deployment descriptor [/Users/ritikpareek/Softwares/apache-tomcat-9.0.107 2/conf/Catalina/localhost/TestWeb.xml] has been ignored
+27-Aug-2025 10:03:57.646 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+27-Aug-2025 10:03:57.812 INFO [main] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Parsing configuration file [struts-default.xml]
+27-Aug-2025 10:03:57.883 INFO [main] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Parsing configuration file [struts-plugin.xml]
+27-Aug-2025 10:03:57.896 INFO [main] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Parsing configuration file [struts.xml]
+27-Aug-2025 10:03:58.203 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [/Users/ritikpareek/Softwares/apache-tomcat-9.0.107 2/conf/Catalina/localhost/TestWeb.xml] has finished in [1,378] ms
+27-Aug-2025 10:03:58.203 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [/Users/ritikpareek/Softwares/apache-tomcat-9.0.107 2/conf/Catalina/localhost/SpringMVCWebApp.xml]
+27-Aug-2025 10:03:58.214 WARNING [main] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/SpringMVCWebApp] in deployment descriptor [/Users/ritikpareek/Softwares/apache-tomcat-9.0.107 2/conf/Catalina/localhost/SpringMVCWebApp.xml] has been ignored
+27-Aug-2025 10:03:59.121 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+27-Aug-2025 10:03:59.131 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [/Users/ritikpareek/Softwares/apache-tomcat-9.0.107 2/conf/Catalina/localhost/SpringMVCWebApp.xml] has finished in [928] ms
+27-Aug-2025 10:03:59.131 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [/Users/ritikpareek/Softwares/apache-tomcat-9.0.107 2/conf/Catalina/localhost/Test_web.xml]
+27-Aug-2025 10:03:59.137 WARNING [main] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/Test_web] in deployment descriptor [/Users/ritikpareek/Softwares/apache-tomcat-9.0.107 2/conf/Catalina/localhost/Test_web.xml] has been ignored
+27-Aug-2025 10:03:59.145 SEVERE [main] org.apache.catalina.startup.HostConfig.deployDescriptor Error deploying deployment descriptor [/Users/ritikpareek/Softwares/apache-tomcat-9.0.107 2/conf/Catalina/localhost/Test_web.xml]
+	java.lang.IllegalStateException: Error starting child
+		at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:602)
+		at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:571)
+		at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:603)
+		at org.apache.catalina.startup.HostConfig.deployDescriptor(HostConfig.java:680)
+		at org.apache.catalina.startup.HostConfig$DeployDescriptor.run(HostConfig.java:1839)
+		at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+		at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+		at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:76)
+		at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:124)
+		at org.apache.catalina.startup.HostConfig.deployDescriptors(HostConfig.java:575)
+		at org.apache.catalina.startup.HostConfig.deployApps(HostConfig.java:466)
+		at org.apache.catalina.startup.HostConfig.start(HostConfig.java:1579)
+		at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:312)
+		at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:109)
+		at org.apache.catalina.util.LifecycleBase.setStateInternal(LifecycleBase.java:389)
+		at org.apache.catalina.util.LifecycleBase.setState(LifecycleBase.java:336)
+		at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:776)
+		at org.apache.catalina.core.StandardHost.startInternal(StandardHost.java:721)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+		at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1203)
+		at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1193)
+		at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+		at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:76)
+		at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:148)
+		at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:749)
+		at org.apache.catalina.core.StandardEngine.startInternal(StandardEngine.java:211)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+		at org.apache.catalina.core.StandardService.startInternal(StandardService.java:412)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+		at org.apache.catalina.core.StandardServer.startInternal(StandardServer.java:874)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+		at org.apache.catalina.startup.Catalina.start(Catalina.java:739)
+		at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+		at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+		at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:345)
+		at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:476)
+	Caused by: org.apache.catalina.LifecycleException: Failed to start component [org.apache.catalina.webresources.StandardRoot@1dade178]
+		at org.apache.catalina.util.LifecycleBase.handleSubClassException(LifecycleBase.java:406)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:179)
+		at org.apache.catalina.core.StandardContext.resourcesStart(StandardContext.java:4172)
+		at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:4294)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+		at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:599)
+		... 35 more
+	Caused by: java.lang.IllegalArgumentException: The main resource set specified [/Users/ritikpareek/NetBeansProjects/Test_web/build/web] is not a directory or war file, or is not readable (it does not exist or permissions to access it are missing)
+		at org.apache.catalina.webresources.StandardRoot.createMainResourceSet(StandardRoot.java:758)
+		at org.apache.catalina.webresources.StandardRoot.startInternal(StandardRoot.java:715)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+		... 39 more
+27-Aug-2025 10:03:59.148 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [/Users/ritikpareek/Softwares/apache-tomcat-9.0.107 2/conf/Catalina/localhost/Test_web.xml] has finished in [16] ms
+27-Aug-2025 10:03:59.149 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [/Users/ritikpareek/Softwares/apache-tomcat-9.0.107 2/conf/Catalina/localhost/ChargeBuddy.xml]
+27-Aug-2025 10:03:59.150 WARNING [main] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/ChargeBuddy] in deployment descriptor [/Users/ritikpareek/Softwares/apache-tomcat-9.0.107 2/conf/Catalina/localhost/ChargeBuddy.xml] has been ignored
+27-Aug-2025 10:03:59.616 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+27-Aug-2025 10:03:59.700 INFO [main] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Parsing configuration file [struts-default.xml]
+27-Aug-2025 10:03:59.779 INFO [main] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Parsing configuration file [struts-plugin.xml]
+27-Aug-2025 10:03:59.785 INFO [main] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Parsing configuration file [struts.xml]
+27-Aug-2025 10:03:59.960 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [/Users/ritikpareek/Softwares/apache-tomcat-9.0.107 2/conf/Catalina/localhost/ChargeBuddy.xml] has finished in [811] ms
+27-Aug-2025 10:03:59.960 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [/Users/ritikpareek/Softwares/apache-tomcat-9.0.107 2/conf/Catalina/localhost/Fintech_Services.xml]
+27-Aug-2025 10:03:59.963 WARNING [main] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/Fintech_Services] in deployment descriptor [/Users/ritikpareek/Softwares/apache-tomcat-9.0.107 2/conf/Catalina/localhost/Fintech_Services.xml] has been ignored
+27-Aug-2025 10:04:00.098 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+27-Aug-2025 10:04:00.101 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [/Users/ritikpareek/Softwares/apache-tomcat-9.0.107 2/conf/Catalina/localhost/Fintech_Services.xml] has finished in [141] ms
+27-Aug-2025 10:04:00.101 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [/Users/ritikpareek/Softwares/apache-tomcat-9.0.107 2/conf/Catalina/localhost/ROOT.xml]
+27-Aug-2025 10:04:00.103 WARNING [main] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [] in deployment descriptor [/Users/ritikpareek/Softwares/apache-tomcat-9.0.107 2/conf/Catalina/localhost/ROOT.xml] has been ignored
+27-Aug-2025 10:04:00.107 SEVERE [main] org.apache.catalina.startup.HostConfig.deployDescriptor Error deploying deployment descriptor [/Users/ritikpareek/Softwares/apache-tomcat-9.0.107 2/conf/Catalina/localhost/ROOT.xml]
+	java.lang.IllegalStateException: Error starting child
+		at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:602)
+		at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:571)
+		at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:603)
+		at org.apache.catalina.startup.HostConfig.deployDescriptor(HostConfig.java:680)
+		at org.apache.catalina.startup.HostConfig$DeployDescriptor.run(HostConfig.java:1839)
+		at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+		at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+		at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:76)
+		at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:124)
+		at org.apache.catalina.startup.HostConfig.deployDescriptors(HostConfig.java:575)
+		at org.apache.catalina.startup.HostConfig.deployApps(HostConfig.java:466)
+		at org.apache.catalina.startup.HostConfig.start(HostConfig.java:1579)
+		at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:312)
+		at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:109)
+		at org.apache.catalina.util.LifecycleBase.setStateInternal(LifecycleBase.java:389)
+		at org.apache.catalina.util.LifecycleBase.setState(LifecycleBase.java:336)
+		at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:776)
+		at org.apache.catalina.core.StandardHost.startInternal(StandardHost.java:721)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+		at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1203)
+		at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1193)
+		at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+		at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:76)
+		at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:148)
+		at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:749)
+		at org.apache.catalina.core.StandardEngine.startInternal(StandardEngine.java:211)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+		at org.apache.catalina.core.StandardService.startInternal(StandardService.java:412)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+		at org.apache.catalina.core.StandardServer.startInternal(StandardServer.java:874)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+		at org.apache.catalina.startup.Catalina.start(Catalina.java:739)
+		at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+		at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+		at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:345)
+		at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:476)
+	Caused by: org.apache.catalina.LifecycleException: Failed to start component [org.apache.catalina.webresources.StandardRoot@70a8c0b9]
+		at org.apache.catalina.util.LifecycleBase.handleSubClassException(LifecycleBase.java:406)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:179)
+		at org.apache.catalina.core.StandardContext.resourcesStart(StandardContext.java:4172)
+		at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:4294)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+		at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:599)
+		... 35 more
+	Caused by: java.lang.IllegalArgumentException: The main resource set specified [/Users/ritikpareek/NetBeansProjects/ChargeBuddy/build/web] is not a directory or war file, or is not readable (it does not exist or permissions to access it are missing)
+		at org.apache.catalina.webresources.StandardRoot.createMainResourceSet(StandardRoot.java:758)
+		at org.apache.catalina.webresources.StandardRoot.startInternal(StandardRoot.java:715)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+		... 39 more
+27-Aug-2025 10:04:00.108 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [/Users/ritikpareek/Softwares/apache-tomcat-9.0.107 2/conf/Catalina/localhost/ROOT.xml] has finished in [7] ms
+27-Aug-2025 10:04:00.110 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/ritikpareek/Softwares/apache-tomcat-9.0.107 2/webapps/docs]
+27-Aug-2025 10:04:00.182 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/ritikpareek/Softwares/apache-tomcat-9.0.107 2/webapps/docs] has finished in [72] ms
+27-Aug-2025 10:04:00.182 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/ritikpareek/Softwares/apache-tomcat-9.0.107 2/webapps/manager]
+27-Aug-2025 10:04:00.236 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/ritikpareek/Softwares/apache-tomcat-9.0.107 2/webapps/manager] has finished in [54] ms
+27-Aug-2025 10:04:00.236 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/ritikpareek/Softwares/apache-tomcat-9.0.107 2/webapps/examples]
+27-Aug-2025 10:04:00.507 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/ritikpareek/Softwares/apache-tomcat-9.0.107 2/webapps/examples] has finished in [271] ms
+27-Aug-2025 10:04:00.508 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/ritikpareek/Softwares/apache-tomcat-9.0.107 2/webapps/host-manager]
+27-Aug-2025 10:04:00.541 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/ritikpareek/Softwares/apache-tomcat-9.0.107 2/webapps/host-manager] has finished in [33] ms
+27-Aug-2025 10:04:00.544 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8086"]
+27-Aug-2025 10:04:00.555 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [4701] milliseconds
+27-Aug-2025 10:04:04.578 INFO [http-nio-8086-exec-7] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+27-Aug-2025 10:04:06.405 INFO [http-nio-8086-exec-3] org.springframework.web.servlet.FrameworkServlet.initServletBean FrameworkServlet 'dispatcher': initialization started
+27-Aug-2025 10:04:06.428 INFO [http-nio-8086-exec-3] org.springframework.context.support.AbstractApplicationContext.prepareRefresh Refreshing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Wed Aug 27 10:04:06 IST 2025]; root of context hierarchy
+27-Aug-2025 10:04:06.461 INFO [http-nio-8086-exec-3] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions Loading XML bean definitions from ServletContext resource [/WEB-INF/dispatcher-servlet.xml]
+27-Aug-2025 10:04:06.680 INFO [http-nio-8086-exec-3] org.springframework.context.annotation.ClassPathScanningCandidateComponentProvider.registerDefaultFilters JSR-250 'javax.annotation.ManagedBean' found and supported for component scanning
+27-Aug-2025 10:04:06.805 INFO [http-nio-8086-exec-3] org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@6cf72bb4: defining beans [viewResolver,loginController,org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,org.springframework.context.annotation.internalPersistenceAnnotationProcessor,dataSource,sessionFactory,template1,dao]; root of factory hierarchy
+27-Aug-2025 10:04:06.970 INFO [http-nio-8086-exec-3] org.hibernate.cfg.Environment.<clinit> Hibernate 3.2.5
+27-Aug-2025 10:04:06.974 INFO [http-nio-8086-exec-3] org.hibernate.cfg.Environment.<clinit> hibernate.properties not found
+27-Aug-2025 10:04:06.979 INFO [http-nio-8086-exec-3] org.hibernate.cfg.Environment.buildBytecodeProvider Bytecode provider name : cglib
+27-Aug-2025 10:04:06.981 INFO [http-nio-8086-exec-3] org.hibernate.cfg.Environment.<clinit> using JDK 1.4 java.sql.Timestamp handling
+27-Aug-2025 10:04:07.154 INFO [http-nio-8086-exec-3] org.hibernate.cfg.HbmBinder.bindRootPersistentClassCommonValues Mapping class: spr.dto.User -> userlogintab2025
+27-Aug-2025 10:04:07.166 INFO [http-nio-8086-exec-3] org.springframework.orm.hibernate3.LocalSessionFactoryBean.buildSessionFactory Building new Hibernate SessionFactory
+27-Aug-2025 10:04:07.197 INFO [http-nio-8086-exec-3] org.hibernate.connection.ConnectionProviderFactory.newConnectionProvider Initializing connection provider: org.springframework.orm.hibernate3.LocalDataSourceConnectionProvider
+27-Aug-2025 10:04:08.381 WARNING [http-nio-8086-exec-3] org.hibernate.util.JDBCExceptionReporter.logExceptions SQL Error: 0, SQLState: null
+27-Aug-2025 10:04:08.392 SEVERE [http-nio-8086-exec-3] org.hibernate.util.JDBCExceptionReporter.logExceptions Cannot create PoolableConnectionFactory (Access denied for user 'root'@'localhost' (using password: YES))
+27-Aug-2025 10:04:08.393 WARNING [http-nio-8086-exec-3] org.hibernate.cfg.SettingsFactory.buildSettings Could not obtain connection metadata
+	org.apache.commons.dbcp.SQLNestedException: Cannot create PoolableConnectionFactory (Access denied for user 'root'@'localhost' (using password: YES))
+		at org.apache.commons.dbcp.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:1549)
+		at org.apache.commons.dbcp.BasicDataSource.createDataSource(BasicDataSource.java:1388)
+		at org.apache.commons.dbcp.BasicDataSource.getConnection(BasicDataSource.java:1044)
+		at org.springframework.orm.hibernate3.LocalDataSourceConnectionProvider.getConnection(LocalDataSourceConnectionProvider.java:81)
+		at org.hibernate.cfg.SettingsFactory.buildSettings(SettingsFactory.java:84)
+		at org.hibernate.cfg.Configuration.buildSettings(Configuration.java:2009)
+		at org.hibernate.cfg.Configuration.buildSessionFactory(Configuration.java:1292)
+		at org.springframework.orm.hibernate3.LocalSessionFactoryBean.newSessionFactory(LocalSessionFactoryBean.java:855)
+		at org.springframework.orm.hibernate3.LocalSessionFactoryBean.buildSessionFactory(LocalSessionFactoryBean.java:774)
+		at org.springframework.orm.hibernate3.AbstractSessionFactoryBean.afterPropertiesSet(AbstractSessionFactoryBean.java:211)
+		at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1469)
+		at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1409)
+		at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:519)
+		at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:456)
+		at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:291)
+		at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:222)
+		at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:288)
+		at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:190)
+		at org.springframework.beans.factory.support.BeanDefinitionValueResolver.resolveReference(BeanDefinitionValueResolver.java:322)
+		at org.springframework.beans.factory.support.BeanDefinitionValueResolver.resolveValueIfNecessary(BeanDefinitionValueResolver.java:106)
+		at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.applyPropertyValues(AbstractAutowireCapableBeanFactory.java:1317)
+		at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1076)
+		at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:517)
+		at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:456)
+		at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:291)
+		at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:222)
+		at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:288)
+		at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:190)
+		at org.springframework.beans.factory.support.BeanDefinitionValueResolver.resolveReference(BeanDefinitionValueResolver.java:322)
+		at org.springframework.beans.factory.support.BeanDefinitionValueResolver.resolveValueIfNecessary(BeanDefinitionValueResolver.java:106)
+		at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.applyPropertyValues(AbstractAutowireCapableBeanFactory.java:1317)
+		at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1076)
+		at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:517)
+		at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:456)
+		at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:291)
+		at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:222)
+		at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:288)
+		at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:190)
+		at org.springframework.beans.factory.support.DefaultListableBeanFactory.findAutowireCandidates(DefaultListableBeanFactory.java:827)
+		at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:769)
+		at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:686)
+		at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredMethodElement.inject(AutowiredAnnotationBeanPostProcessor.java:559)
+		at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:84)
+		at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessPropertyValues(AutowiredAnnotationBeanPostProcessor.java:283)
+		at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1064)
+		at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:517)
+		at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:456)
+		at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:291)
+		at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:222)
+		at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:288)
+		at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:190)
+		at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:563)
+		at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:872)
+		at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:423)
+		at org.springframework.web.servlet.FrameworkServlet.createWebApplicationContext(FrameworkServlet.java:442)
+		at org.springframework.web.servlet.FrameworkServlet.createWebApplicationContext(FrameworkServlet.java:458)
+		at org.springframework.web.servlet.FrameworkServlet.initWebApplicationContext(FrameworkServlet.java:339)
+		at org.springframework.web.servlet.FrameworkServlet.initServletBean(FrameworkServlet.java:306)
+		at org.springframework.web.servlet.HttpServletBean.init(HttpServletBean.java:127)
+		at javax.servlet.GenericServlet.init(GenericServlet.java:143)
+		at org.apache.catalina.core.StandardWrapper.initServlet(StandardWrapper.java:989)
+		at org.apache.catalina.core.StandardWrapper.loadServlet(StandardWrapper.java:946)
+		at org.apache.catalina.core.StandardWrapper.allocate(StandardWrapper.java:664)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:116)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:130)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:656)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:346)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:397)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:935)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1826)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1189)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:658)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+		at java.base/java.lang.Thread.run(Thread.java:1575)
+	Caused by: java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+		at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:121)
+		at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:114)
+		at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:833)
+		at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:416)
+		at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:238)
+		at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:180)
+		at org.apache.commons.dbcp.DriverConnectionFactory.createConnection(DriverConnectionFactory.java:38)
+		at org.apache.commons.dbcp.PoolableConnectionFactory.makeObject(PoolableConnectionFactory.java:582)
+		at org.apache.commons.dbcp.BasicDataSource.validateConnectionFactory(BasicDataSource.java:1556)
+		at org.apache.commons.dbcp.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:1545)
+		... 79 more
+27-Aug-2025 10:04:08.413 INFO [http-nio-8086-exec-3] org.hibernate.dialect.Dialect.<init> Using dialect: org.hibernate.dialect.MySQLDialect
+27-Aug-2025 10:04:08.421 INFO [http-nio-8086-exec-3] org.hibernate.transaction.TransactionFactoryFactory.buildTransactionFactory Transaction strategy: org.springframework.orm.hibernate3.SpringTransactionFactory
+27-Aug-2025 10:04:08.423 INFO [http-nio-8086-exec-3] org.hibernate.transaction.TransactionManagerLookupFactory.getTransactionManagerLookup No TransactionManagerLookup configured (in JTA environment, use of read-write or transactional second-level cache is not recommended)
+27-Aug-2025 10:04:08.423 INFO [http-nio-8086-exec-3] org.hibernate.cfg.SettingsFactory.buildSettings Automatic flush during beforeCompletion(): disabled
+27-Aug-2025 10:04:08.423 INFO [http-nio-8086-exec-3] org.hibernate.cfg.SettingsFactory.buildSettings Automatic session close at end of transaction: disabled
+27-Aug-2025 10:04:08.423 INFO [http-nio-8086-exec-3] org.hibernate.cfg.SettingsFactory.buildSettings Scrollable result sets: disabled
+27-Aug-2025 10:04:08.423 INFO [http-nio-8086-exec-3] org.hibernate.cfg.SettingsFactory.buildSettings JDBC3 getGeneratedKeys(): disabled
+27-Aug-2025 10:04:08.424 INFO [http-nio-8086-exec-3] org.hibernate.cfg.SettingsFactory.buildSettings Connection release mode: auto
+27-Aug-2025 10:04:08.425 INFO [http-nio-8086-exec-3] org.hibernate.cfg.SettingsFactory.buildSettings Maximum outer join fetch depth: 2
+27-Aug-2025 10:04:08.425 INFO [http-nio-8086-exec-3] org.hibernate.cfg.SettingsFactory.buildSettings Default batch fetch size: 1
+27-Aug-2025 10:04:08.425 INFO [http-nio-8086-exec-3] org.hibernate.cfg.SettingsFactory.buildSettings Generate SQL with comments: disabled
+27-Aug-2025 10:04:08.425 INFO [http-nio-8086-exec-3] org.hibernate.cfg.SettingsFactory.buildSettings Order SQL updates by primary key: disabled
+27-Aug-2025 10:04:08.425 INFO [http-nio-8086-exec-3] org.hibernate.cfg.SettingsFactory.buildSettings Order SQL inserts for batching: disabled
+27-Aug-2025 10:04:08.425 INFO [http-nio-8086-exec-3] org.hibernate.cfg.SettingsFactory.createQueryTranslatorFactory Query translator: org.hibernate.hql.ast.ASTQueryTranslatorFactory
+27-Aug-2025 10:04:08.426 INFO [http-nio-8086-exec-3] org.hibernate.hql.ast.ASTQueryTranslatorFactory.<init> Using ASTQueryTranslatorFactory
+27-Aug-2025 10:04:08.427 INFO [http-nio-8086-exec-3] org.hibernate.cfg.SettingsFactory.buildSettings Query language substitutions: {}
+27-Aug-2025 10:04:08.427 INFO [http-nio-8086-exec-3] org.hibernate.cfg.SettingsFactory.buildSettings JPA-QL strict compliance: disabled
+27-Aug-2025 10:04:08.427 INFO [http-nio-8086-exec-3] org.hibernate.cfg.SettingsFactory.buildSettings Second-level cache: enabled
+27-Aug-2025 10:04:08.427 INFO [http-nio-8086-exec-3] org.hibernate.cfg.SettingsFactory.buildSettings Query cache: disabled
+27-Aug-2025 10:04:08.427 INFO [http-nio-8086-exec-3] org.hibernate.cfg.SettingsFactory.createCacheProvider Cache provider: org.hibernate.cache.NoCacheProvider
+27-Aug-2025 10:04:08.427 INFO [http-nio-8086-exec-3] org.hibernate.cfg.SettingsFactory.buildSettings Optimize cache for minimal puts: disabled
+27-Aug-2025 10:04:08.427 INFO [http-nio-8086-exec-3] org.hibernate.cfg.SettingsFactory.buildSettings Structured second-level cache entries: disabled
+27-Aug-2025 10:04:08.431 INFO [http-nio-8086-exec-3] org.hibernate.cfg.SettingsFactory.buildSettings Echoing all SQL to stdout
+27-Aug-2025 10:04:08.432 INFO [http-nio-8086-exec-3] org.hibernate.cfg.SettingsFactory.buildSettings Statistics: disabled
+27-Aug-2025 10:04:08.432 INFO [http-nio-8086-exec-3] org.hibernate.cfg.SettingsFactory.buildSettings Deleted entity synthetic identifier rollback: disabled
+27-Aug-2025 10:04:08.432 INFO [http-nio-8086-exec-3] org.hibernate.cfg.SettingsFactory.buildSettings Default entity-mode: pojo
+27-Aug-2025 10:04:08.432 INFO [http-nio-8086-exec-3] org.hibernate.cfg.SettingsFactory.buildSettings Named query checking : enabled
+27-Aug-2025 10:04:08.534 INFO [http-nio-8086-exec-3] org.hibernate.impl.SessionFactoryImpl.<init> building session factory
+27-Aug-2025 10:04:08.714 INFO [http-nio-8086-exec-3] org.hibernate.impl.SessionFactoryObjectFactory.addInstance Not binding factory to JNDI, no JNDI name configured
+27-Aug-2025 10:04:08.719 INFO [http-nio-8086-exec-3] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute Running hbm2ddl schema update
+27-Aug-2025 10:04:08.720 INFO [http-nio-8086-exec-3] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute fetching database metadata
+27-Aug-2025 10:04:08.778 WARNING [http-nio-8086-exec-3] org.hibernate.util.JDBCExceptionReporter.logExceptions SQL Error: 0, SQLState: null
+27-Aug-2025 10:04:08.779 SEVERE [http-nio-8086-exec-3] org.hibernate.util.JDBCExceptionReporter.logExceptions Cannot create PoolableConnectionFactory (Access denied for user 'root'@'localhost' (using password: YES))
+27-Aug-2025 10:04:08.779 SEVERE [http-nio-8086-exec-3] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute could not get database metadata
+	org.apache.commons.dbcp.SQLNestedException: Cannot create PoolableConnectionFactory (Access denied for user 'root'@'localhost' (using password: YES))
+		at org.apache.commons.dbcp.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:1549)
+		at org.apache.commons.dbcp.BasicDataSource.createDataSource(BasicDataSource.java:1388)
+		at org.apache.commons.dbcp.BasicDataSource.getConnection(BasicDataSource.java:1044)
+		at org.springframework.orm.hibernate3.LocalDataSourceConnectionProvider.getConnection(LocalDataSourceConnectionProvider.java:81)
+		at org.hibernate.tool.hbm2ddl.SuppliedConnectionProviderConnectionHelper.prepare(SuppliedConnectionProviderConnectionHelper.java:27)
+		at org.hibernate.tool.hbm2ddl.SchemaUpdate.execute(SchemaUpdate.java:127)
+		at org.hibernate.impl.SessionFactoryImpl.<init>(SessionFactoryImpl.java:314)
+		at org.hibernate.cfg.Configuration.buildSessionFactory(Configuration.java:1294)
+		at org.springframework.orm.hibernate3.LocalSessionFactoryBean.newSessionFactory(LocalSessionFactoryBean.java:855)
+		at org.springframework.orm.hibernate3.LocalSessionFactoryBean.buildSessionFactory(LocalSessionFactoryBean.java:774)
+		at org.springframework.orm.hibernate3.AbstractSessionFactoryBean.afterPropertiesSet(AbstractSessionFactoryBean.java:211)
+		at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1469)
+		at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1409)
+		at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:519)
+		at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:456)
+		at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:291)
+		at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:222)
+		at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:288)
+		at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:190)
+		at org.springframework.beans.factory.support.BeanDefinitionValueResolver.resolveReference(BeanDefinitionValueResolver.java:322)
+		at org.springframework.beans.factory.support.BeanDefinitionValueResolver.resolveValueIfNecessary(BeanDefinitionValueResolver.java:106)
+		at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.applyPropertyValues(AbstractAutowireCapableBeanFactory.java:1317)
+		at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1076)
+		at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:517)
+		at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:456)
+		at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:291)
+		at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:222)
+		at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:288)
+		at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:190)
+		at org.springframework.beans.factory.support.BeanDefinitionValueResolver.resolveReference(BeanDefinitionValueResolver.java:322)
+		at org.springframework.beans.factory.support.BeanDefinitionValueResolver.resolveValueIfNecessary(BeanDefinitionValueResolver.java:106)
+		at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.applyPropertyValues(AbstractAutowireCapableBeanFactory.java:1317)
+		at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1076)
+		at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:517)
+		at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:456)
+		at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:291)
+		at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:222)
+		at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:288)
+		at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:190)
+		at org.springframework.beans.factory.support.DefaultListableBeanFactory.findAutowireCandidates(DefaultListableBeanFactory.java:827)
+		at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:769)
+		at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:686)
+		at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredMethodElement.inject(AutowiredAnnotationBeanPostProcessor.java:559)
+		at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:84)
+		at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessPropertyValues(AutowiredAnnotationBeanPostProcessor.java:283)
+		at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1064)
+		at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:517)
+		at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:456)
+		at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:291)
+		at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:222)
+		at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:288)
+		at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:190)
+		at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:563)
+		at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:872)
+		at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:423)
+		at org.springframework.web.servlet.FrameworkServlet.createWebApplicationContext(FrameworkServlet.java:442)
+		at org.springframework.web.servlet.FrameworkServlet.createWebApplicationContext(FrameworkServlet.java:458)
+		at org.springframework.web.servlet.FrameworkServlet.initWebApplicationContext(FrameworkServlet.java:339)
+		at org.springframework.web.servlet.FrameworkServlet.initServletBean(FrameworkServlet.java:306)
+		at org.springframework.web.servlet.HttpServletBean.init(HttpServletBean.java:127)
+		at javax.servlet.GenericServlet.init(GenericServlet.java:143)
+		at org.apache.catalina.core.StandardWrapper.initServlet(StandardWrapper.java:989)
+		at org.apache.catalina.core.StandardWrapper.loadServlet(StandardWrapper.java:946)
+		at org.apache.catalina.core.StandardWrapper.allocate(StandardWrapper.java:664)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:116)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:130)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:656)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:346)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:397)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:935)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1826)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1189)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:658)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+		at java.base/java.lang.Thread.run(Thread.java:1575)
+	Caused by: java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+		at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:121)
+		at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:114)
+		at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:833)
+		at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:416)
+		at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:238)
+		at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:180)
+		at org.apache.commons.dbcp.DriverConnectionFactory.createConnection(DriverConnectionFactory.java:38)
+		at org.apache.commons.dbcp.PoolableConnectionFactory.makeObject(PoolableConnectionFactory.java:582)
+		at org.apache.commons.dbcp.BasicDataSource.validateConnectionFactory(BasicDataSource.java:1556)
+		at org.apache.commons.dbcp.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:1545)
+		... 80 more
+27-Aug-2025 10:04:08.784 SEVERE [http-nio-8086-exec-3] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute could not complete schema update
+	org.apache.commons.dbcp.SQLNestedException: Cannot create PoolableConnectionFactory (Access denied for user 'root'@'localhost' (using password: YES))
+		at org.apache.commons.dbcp.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:1549)
+		at org.apache.commons.dbcp.BasicDataSource.createDataSource(BasicDataSource.java:1388)
+		at org.apache.commons.dbcp.BasicDataSource.getConnection(BasicDataSource.java:1044)
+		at org.springframework.orm.hibernate3.LocalDataSourceConnectionProvider.getConnection(LocalDataSourceConnectionProvider.java:81)
+		at org.hibernate.tool.hbm2ddl.SuppliedConnectionProviderConnectionHelper.prepare(SuppliedConnectionProviderConnectionHelper.java:27)
+		at org.hibernate.tool.hbm2ddl.SchemaUpdate.execute(SchemaUpdate.java:127)
+		at org.hibernate.impl.SessionFactoryImpl.<init>(SessionFactoryImpl.java:314)
+		at org.hibernate.cfg.Configuration.buildSessionFactory(Configuration.java:1294)
+		at org.springframework.orm.hibernate3.LocalSessionFactoryBean.newSessionFactory(LocalSessionFactoryBean.java:855)
+		at org.springframework.orm.hibernate3.LocalSessionFactoryBean.buildSessionFactory(LocalSessionFactoryBean.java:774)
+		at org.springframework.orm.hibernate3.AbstractSessionFactoryBean.afterPropertiesSet(AbstractSessionFactoryBean.java:211)
+		at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1469)
+		at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1409)
+		at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:519)
+		at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:456)
+		at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:291)
+		at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:222)
+		at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:288)
+		at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:190)
+		at org.springframework.beans.factory.support.BeanDefinitionValueResolver.resolveReference(BeanDefinitionValueResolver.java:322)
+		at org.springframework.beans.factory.support.BeanDefinitionValueResolver.resolveValueIfNecessary(BeanDefinitionValueResolver.java:106)
+		at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.applyPropertyValues(AbstractAutowireCapableBeanFactory.java:1317)
+		at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1076)
+		at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:517)
+		at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:456)
+		at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:291)
+		at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:222)
+		at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:288)
+		at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:190)
+		at org.springframework.beans.factory.support.BeanDefinitionValueResolver.resolveReference(BeanDefinitionValueResolver.java:322)
+		at org.springframework.beans.factory.support.BeanDefinitionValueResolver.resolveValueIfNecessary(BeanDefinitionValueResolver.java:106)
+		at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.applyPropertyValues(AbstractAutowireCapableBeanFactory.java:1317)
+		at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1076)
+		at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:517)
+		at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:456)
+		at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:291)
+		at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:222)
+		at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:288)
+		at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:190)
+		at org.springframework.beans.factory.support.DefaultListableBeanFactory.findAutowireCandidates(DefaultListableBeanFactory.java:827)
+		at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:769)
+		at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:686)
+		at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredMethodElement.inject(AutowiredAnnotationBeanPostProcessor.java:559)
+		at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:84)
+		at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessPropertyValues(AutowiredAnnotationBeanPostProcessor.java:283)
+		at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1064)
+		at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:517)
+		at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:456)
+		at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:291)
+		at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:222)
+		at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:288)
+		at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:190)
+		at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:563)
+		at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:872)
+		at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:423)
+		at org.springframework.web.servlet.FrameworkServlet.createWebApplicationContext(FrameworkServlet.java:442)
+		at org.springframework.web.servlet.FrameworkServlet.createWebApplicationContext(FrameworkServlet.java:458)
+		at org.springframework.web.servlet.FrameworkServlet.initWebApplicationContext(FrameworkServlet.java:339)
+		at org.springframework.web.servlet.FrameworkServlet.initServletBean(FrameworkServlet.java:306)
+		at org.springframework.web.servlet.HttpServletBean.init(HttpServletBean.java:127)
+		at javax.servlet.GenericServlet.init(GenericServlet.java:143)
+		at org.apache.catalina.core.StandardWrapper.initServlet(StandardWrapper.java:989)
+		at org.apache.catalina.core.StandardWrapper.loadServlet(StandardWrapper.java:946)
+		at org.apache.catalina.core.StandardWrapper.allocate(StandardWrapper.java:664)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:116)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:130)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:656)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:346)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:397)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:935)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1826)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1189)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:658)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+		at java.base/java.lang.Thread.run(Thread.java:1575)
+	Caused by: java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+		at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:121)
+		at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:114)
+		at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:833)
+		at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:416)
+		at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:238)
+		at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:180)
+		at org.apache.commons.dbcp.DriverConnectionFactory.createConnection(DriverConnectionFactory.java:38)
+		at org.apache.commons.dbcp.PoolableConnectionFactory.makeObject(PoolableConnectionFactory.java:582)
+		at org.apache.commons.dbcp.BasicDataSource.validateConnectionFactory(BasicDataSource.java:1556)
+		at org.apache.commons.dbcp.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:1545)
+		... 80 more
+27-Aug-2025 10:04:08.874 INFO [http-nio-8086-exec-3] org.springframework.web.servlet.handler.AbstractUrlHandlerMapping.registerHandler Mapped URL path [/deleteaccount.html] onto handler [spr.controller.LoginController@5e4153e0]
+27-Aug-2025 10:04:08.875 INFO [http-nio-8086-exec-3] org.springframework.web.servlet.handler.AbstractUrlHandlerMapping.registerHandler Mapped URL path [/LoadPage.html] onto handler [spr.controller.LoginController@5e4153e0]
+27-Aug-2025 10:04:08.875 INFO [http-nio-8086-exec-3] org.springframework.web.servlet.handler.AbstractUrlHandlerMapping.registerHandler Mapped URL path [/newuser.html] onto handler [spr.controller.LoginController@5e4153e0]
+27-Aug-2025 10:04:08.876 INFO [http-nio-8086-exec-3] org.springframework.web.servlet.handler.AbstractUrlHandlerMapping.registerHandler Mapped URL path [/updatepass.html] onto handler [spr.controller.LoginController@5e4153e0]
+27-Aug-2025 10:04:08.876 INFO [http-nio-8086-exec-3] org.springframework.web.servlet.handler.AbstractUrlHandlerMapping.registerHandler Mapped URL path [/LoginCode.html] onto handler [spr.controller.LoginController@5e4153e0]
+27-Aug-2025 10:04:08.876 INFO [http-nio-8086-exec-3] org.springframework.web.servlet.handler.AbstractUrlHandlerMapping.registerHandler Mapped URL path [/NewUserCode.html] onto handler [spr.controller.LoginController@5e4153e0]
+27-Aug-2025 10:04:09.037 INFO [http-nio-8086-exec-3] org.springframework.web.servlet.FrameworkServlet.initServletBean FrameworkServlet 'dispatcher': initialization completed in 2631 ms
+27-Aug-2025 10:04:09.061 WARNING [http-nio-8086-exec-3] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/SpringMVCWebApp/] in DispatcherServlet with name 'dispatcher'
+27-Aug-2025 10:05:28.153 WARNING [http-nio-8086-exec-9] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/SpringMVCWebApp/] in DispatcherServlet with name 'dispatcher'
+27-Aug-2025 10:08:12.449 WARNING [http-nio-8086-exec-16] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/SpringMVCWebApp/] in DispatcherServlet with name 'dispatcher'
+27-Aug-2025 10:10:02.491 WARNING [http-nio-8086-exec-20] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/SpringMVCWebApp/] in DispatcherServlet with name 'dispatcher'
+27-Aug-2025 10:12:50.428 INFO [http-nio-8086-exec-17] org.springframework.context.support.AbstractApplicationContext.doClose Closing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Wed Aug 27 10:04:06 IST 2025]; root of context hierarchy
+27-Aug-2025 10:12:50.430 INFO [http-nio-8086-exec-17] org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingletons Destroying singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@6cf72bb4: defining beans [viewResolver,loginController,org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,org.springframework.context.annotation.internalPersistenceAnnotationProcessor,dataSource,sessionFactory,template1,dao]; root of factory hierarchy
+27-Aug-2025 10:12:50.499 INFO [http-nio-8086-exec-17] org.springframework.orm.hibernate3.AbstractSessionFactoryBean.destroy Closing Hibernate SessionFactory
+27-Aug-2025 10:12:50.499 INFO [http-nio-8086-exec-17] org.hibernate.impl.SessionFactoryImpl.close closing
+27-Aug-2025 10:12:50.517 WARNING [http-nio-8086-exec-17] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [SpringMVCWebApp] registered the JDBC driver [com.mysql.cj.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+27-Aug-2025 10:12:50.519 WARNING [http-nio-8086-exec-17] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [SpringMVCWebApp] appears to have started a thread named [mysql-cj-abandoned-connection-cleanup] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.base/jdk.internal.misc.Unsafe.park(Native Method)
+ java.base/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:269)
+ java.base/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:1852)
+ java.base/java.lang.ref.ReferenceQueue.await(ReferenceQueue.java:79)
+ java.base/java.lang.ref.ReferenceQueue.remove0(ReferenceQueue.java:151)
+ java.base/java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:229)
+ com.mysql.cj.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:84)
+ java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+ java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+ java.base/java.lang.Thread.run(Thread.java:1575)
+27-Aug-2025 10:12:51.457 INFO [http-nio-8086-exec-14] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+27-Aug-2025 10:12:52.803 INFO [mysql-cj-abandoned-connection-cleanup] org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading Illegal access: this web application instance has been stopped already. Could not load []. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+	java.lang.IllegalStateException: Illegal access: this web application instance has been stopped already. Could not load []. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+		at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading(WebappClassLoaderBase.java:1374)
+		at org.apache.catalina.loader.WebappClassLoaderBase.getResource(WebappClassLoaderBase.java:997)
+		at com.mysql.cj.jdbc.AbandonedConnectionCleanupThread.checkThreadContextClassLoader(AbandonedConnectionCleanupThread.java:116)
+		at com.mysql.cj.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:83)
+		at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+		at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+		at java.base/java.lang.Thread.run(Thread.java:1575)
+27-Aug-2025 10:13:22.762 INFO [http-nio-8086-exec-14] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+27-Aug-2025 10:13:23.183 INFO [http-nio-8086-exec-16] org.springframework.web.servlet.FrameworkServlet.initServletBean FrameworkServlet 'dispatcher': initialization started
+27-Aug-2025 10:13:23.209 INFO [http-nio-8086-exec-16] org.springframework.context.support.AbstractApplicationContext.prepareRefresh Refreshing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Wed Aug 27 10:13:23 IST 2025]; root of context hierarchy
+27-Aug-2025 10:13:23.250 INFO [http-nio-8086-exec-16] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions Loading XML bean definitions from ServletContext resource [/WEB-INF/dispatcher-servlet.xml]
+27-Aug-2025 10:13:23.342 INFO [http-nio-8086-exec-16] org.springframework.context.annotation.ClassPathScanningCandidateComponentProvider.registerDefaultFilters JSR-250 'javax.annotation.ManagedBean' found and supported for component scanning
+27-Aug-2025 10:13:23.467 INFO [http-nio-8086-exec-16] org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@305311ac: defining beans [viewResolver,loginController,org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,org.springframework.context.annotation.internalPersistenceAnnotationProcessor,dataSource,sessionFactory,template1,dao]; root of factory hierarchy
+27-Aug-2025 10:13:23.577 INFO [http-nio-8086-exec-16] org.hibernate.cfg.Environment.<clinit> Hibernate 3.2.5
+27-Aug-2025 10:13:23.580 INFO [http-nio-8086-exec-16] org.hibernate.cfg.Environment.<clinit> hibernate.properties not found
+27-Aug-2025 10:13:23.581 INFO [http-nio-8086-exec-16] org.hibernate.cfg.Environment.buildBytecodeProvider Bytecode provider name : cglib
+27-Aug-2025 10:13:23.583 INFO [http-nio-8086-exec-16] org.hibernate.cfg.Environment.<clinit> using JDK 1.4 java.sql.Timestamp handling
+27-Aug-2025 10:13:23.664 INFO [http-nio-8086-exec-16] org.hibernate.cfg.HbmBinder.bindRootPersistentClassCommonValues Mapping class: spr.dto.User -> userlogintab2025
+27-Aug-2025 10:13:23.672 INFO [http-nio-8086-exec-16] org.springframework.orm.hibernate3.LocalSessionFactoryBean.buildSessionFactory Building new Hibernate SessionFactory
+27-Aug-2025 10:13:23.691 INFO [http-nio-8086-exec-16] org.hibernate.connection.ConnectionProviderFactory.newConnectionProvider Initializing connection provider: org.springframework.orm.hibernate3.LocalDataSourceConnectionProvider
+27-Aug-2025 10:13:24.223 WARNING [http-nio-8086-exec-16] org.hibernate.util.JDBCExceptionReporter.logExceptions SQL Error: 0, SQLState: null
+27-Aug-2025 10:13:24.224 SEVERE [http-nio-8086-exec-16] org.hibernate.util.JDBCExceptionReporter.logExceptions Cannot create PoolableConnectionFactory (Unknown database 'test')
+27-Aug-2025 10:13:24.224 WARNING [http-nio-8086-exec-16] org.hibernate.cfg.SettingsFactory.buildSettings Could not obtain connection metadata
+	org.apache.commons.dbcp.SQLNestedException: Cannot create PoolableConnectionFactory (Unknown database 'test')
+		at org.apache.commons.dbcp.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:1549)
+		at org.apache.commons.dbcp.BasicDataSource.createDataSource(BasicDataSource.java:1388)
+		at org.apache.commons.dbcp.BasicDataSource.getConnection(BasicDataSource.java:1044)
+		at org.springframework.orm.hibernate3.LocalDataSourceConnectionProvider.getConnection(LocalDataSourceConnectionProvider.java:81)
+		at org.hibernate.cfg.SettingsFactory.buildSettings(SettingsFactory.java:84)
+		at org.hibernate.cfg.Configuration.buildSettings(Configuration.java:2009)
+		at org.hibernate.cfg.Configuration.buildSessionFactory(Configuration.java:1292)
+		at org.springframework.orm.hibernate3.LocalSessionFactoryBean.newSessionFactory(LocalSessionFactoryBean.java:855)
+		at org.springframework.orm.hibernate3.LocalSessionFactoryBean.buildSessionFactory(LocalSessionFactoryBean.java:774)
+		at org.springframework.orm.hibernate3.AbstractSessionFactoryBean.afterPropertiesSet(AbstractSessionFactoryBean.java:211)
+		at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1469)
+		at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1409)
+		at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:519)
+		at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:456)
+		at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:291)
+		at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:222)
+		at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:288)
+		at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:190)
+		at org.springframework.beans.factory.support.BeanDefinitionValueResolver.resolveReference(BeanDefinitionValueResolver.java:322)
+		at org.springframework.beans.factory.support.BeanDefinitionValueResolver.resolveValueIfNecessary(BeanDefinitionValueResolver.java:106)
+		at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.applyPropertyValues(AbstractAutowireCapableBeanFactory.java:1317)
+		at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1076)
+		at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:517)
+		at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:456)
+		at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:291)
+		at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:222)
+		at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:288)
+		at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:190)
+		at org.springframework.beans.factory.support.BeanDefinitionValueResolver.resolveReference(BeanDefinitionValueResolver.java:322)
+		at org.springframework.beans.factory.support.BeanDefinitionValueResolver.resolveValueIfNecessary(BeanDefinitionValueResolver.java:106)
+		at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.applyPropertyValues(AbstractAutowireCapableBeanFactory.java:1317)
+		at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1076)
+		at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:517)
+		at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:456)
+		at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:291)
+		at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:222)
+		at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:288)
+		at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:190)
+		at org.springframework.beans.factory.support.DefaultListableBeanFactory.findAutowireCandidates(DefaultListableBeanFactory.java:827)
+		at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:769)
+		at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:686)
+		at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredMethodElement.inject(AutowiredAnnotationBeanPostProcessor.java:559)
+		at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:84)
+		at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessPropertyValues(AutowiredAnnotationBeanPostProcessor.java:283)
+		at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1064)
+		at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:517)
+		at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:456)
+		at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:291)
+		at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:222)
+		at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:288)
+		at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:190)
+		at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:563)
+		at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:872)
+		at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:423)
+		at org.springframework.web.servlet.FrameworkServlet.createWebApplicationContext(FrameworkServlet.java:442)
+		at org.springframework.web.servlet.FrameworkServlet.createWebApplicationContext(FrameworkServlet.java:458)
+		at org.springframework.web.servlet.FrameworkServlet.initWebApplicationContext(FrameworkServlet.java:339)
+		at org.springframework.web.servlet.FrameworkServlet.initServletBean(FrameworkServlet.java:306)
+		at org.springframework.web.servlet.HttpServletBean.init(HttpServletBean.java:127)
+		at javax.servlet.GenericServlet.init(GenericServlet.java:143)
+		at org.apache.catalina.core.StandardWrapper.initServlet(StandardWrapper.java:989)
+		at org.apache.catalina.core.StandardWrapper.loadServlet(StandardWrapper.java:946)
+		at org.apache.catalina.core.StandardWrapper.allocate(StandardWrapper.java:664)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:116)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:130)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:656)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:346)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:397)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:935)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1826)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1189)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:658)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+		at java.base/java.lang.Thread.run(Thread.java:1575)
+	Caused by: java.sql.SQLSyntaxErrorException: Unknown database 'test'
+		at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:112)
+		at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:114)
+		at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:833)
+		at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:416)
+		at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:238)
+		at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:180)
+		at org.apache.commons.dbcp.DriverConnectionFactory.createConnection(DriverConnectionFactory.java:38)
+		at org.apache.commons.dbcp.PoolableConnectionFactory.makeObject(PoolableConnectionFactory.java:582)
+		at org.apache.commons.dbcp.BasicDataSource.validateConnectionFactory(BasicDataSource.java:1556)
+		at org.apache.commons.dbcp.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:1545)
+		... 79 more
+27-Aug-2025 10:13:24.231 INFO [http-nio-8086-exec-16] org.hibernate.dialect.Dialect.<init> Using dialect: org.hibernate.dialect.MySQLDialect
+27-Aug-2025 10:13:24.233 INFO [http-nio-8086-exec-16] org.hibernate.transaction.TransactionFactoryFactory.buildTransactionFactory Transaction strategy: org.springframework.orm.hibernate3.SpringTransactionFactory
+27-Aug-2025 10:13:24.233 INFO [http-nio-8086-exec-16] org.hibernate.transaction.TransactionManagerLookupFactory.getTransactionManagerLookup No TransactionManagerLookup configured (in JTA environment, use of read-write or transactional second-level cache is not recommended)
+27-Aug-2025 10:13:24.233 INFO [http-nio-8086-exec-16] org.hibernate.cfg.SettingsFactory.buildSettings Automatic flush during beforeCompletion(): disabled
+27-Aug-2025 10:13:24.233 INFO [http-nio-8086-exec-16] org.hibernate.cfg.SettingsFactory.buildSettings Automatic session close at end of transaction: disabled
+27-Aug-2025 10:13:24.233 INFO [http-nio-8086-exec-16] org.hibernate.cfg.SettingsFactory.buildSettings Scrollable result sets: disabled
+27-Aug-2025 10:13:24.234 INFO [http-nio-8086-exec-16] org.hibernate.cfg.SettingsFactory.buildSettings JDBC3 getGeneratedKeys(): disabled
+27-Aug-2025 10:13:24.234 INFO [http-nio-8086-exec-16] org.hibernate.cfg.SettingsFactory.buildSettings Connection release mode: auto
+27-Aug-2025 10:13:24.234 INFO [http-nio-8086-exec-16] org.hibernate.cfg.SettingsFactory.buildSettings Maximum outer join fetch depth: 2
+27-Aug-2025 10:13:24.234 INFO [http-nio-8086-exec-16] org.hibernate.cfg.SettingsFactory.buildSettings Default batch fetch size: 1
+27-Aug-2025 10:13:24.235 INFO [http-nio-8086-exec-16] org.hibernate.cfg.SettingsFactory.buildSettings Generate SQL with comments: disabled
+27-Aug-2025 10:13:24.235 INFO [http-nio-8086-exec-16] org.hibernate.cfg.SettingsFactory.buildSettings Order SQL updates by primary key: disabled
+27-Aug-2025 10:13:24.235 INFO [http-nio-8086-exec-16] org.hibernate.cfg.SettingsFactory.buildSettings Order SQL inserts for batching: disabled
+27-Aug-2025 10:13:24.235 INFO [http-nio-8086-exec-16] org.hibernate.cfg.SettingsFactory.createQueryTranslatorFactory Query translator: org.hibernate.hql.ast.ASTQueryTranslatorFactory
+27-Aug-2025 10:13:24.236 INFO [http-nio-8086-exec-16] org.hibernate.hql.ast.ASTQueryTranslatorFactory.<init> Using ASTQueryTranslatorFactory
+27-Aug-2025 10:13:24.236 INFO [http-nio-8086-exec-16] org.hibernate.cfg.SettingsFactory.buildSettings Query language substitutions: {}
+27-Aug-2025 10:13:24.237 INFO [http-nio-8086-exec-16] org.hibernate.cfg.SettingsFactory.buildSettings JPA-QL strict compliance: disabled
+27-Aug-2025 10:13:24.240 INFO [http-nio-8086-exec-16] org.hibernate.cfg.SettingsFactory.buildSettings Second-level cache: enabled
+27-Aug-2025 10:13:24.240 INFO [http-nio-8086-exec-16] org.hibernate.cfg.SettingsFactory.buildSettings Query cache: disabled
+27-Aug-2025 10:13:24.240 INFO [http-nio-8086-exec-16] org.hibernate.cfg.SettingsFactory.createCacheProvider Cache provider: org.hibernate.cache.NoCacheProvider
+27-Aug-2025 10:13:24.240 INFO [http-nio-8086-exec-16] org.hibernate.cfg.SettingsFactory.buildSettings Optimize cache for minimal puts: disabled
+27-Aug-2025 10:13:24.241 INFO [http-nio-8086-exec-16] org.hibernate.cfg.SettingsFactory.buildSettings Structured second-level cache entries: disabled
+27-Aug-2025 10:13:24.243 INFO [http-nio-8086-exec-16] org.hibernate.cfg.SettingsFactory.buildSettings Echoing all SQL to stdout
+27-Aug-2025 10:13:24.244 INFO [http-nio-8086-exec-16] org.hibernate.cfg.SettingsFactory.buildSettings Statistics: disabled
+27-Aug-2025 10:13:24.244 INFO [http-nio-8086-exec-16] org.hibernate.cfg.SettingsFactory.buildSettings Deleted entity synthetic identifier rollback: disabled
+27-Aug-2025 10:13:24.244 INFO [http-nio-8086-exec-16] org.hibernate.cfg.SettingsFactory.buildSettings Default entity-mode: pojo
+27-Aug-2025 10:13:24.244 INFO [http-nio-8086-exec-16] org.hibernate.cfg.SettingsFactory.buildSettings Named query checking : enabled
+27-Aug-2025 10:13:24.273 INFO [http-nio-8086-exec-16] org.hibernate.impl.SessionFactoryImpl.<init> building session factory
+27-Aug-2025 10:13:24.380 INFO [http-nio-8086-exec-16] org.hibernate.impl.SessionFactoryObjectFactory.addInstance Not binding factory to JNDI, no JNDI name configured
+27-Aug-2025 10:13:24.382 INFO [http-nio-8086-exec-16] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute Running hbm2ddl schema update
+27-Aug-2025 10:13:24.382 INFO [http-nio-8086-exec-16] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute fetching database metadata
+27-Aug-2025 10:13:24.404 WARNING [http-nio-8086-exec-16] org.hibernate.util.JDBCExceptionReporter.logExceptions SQL Error: 0, SQLState: null
+27-Aug-2025 10:13:24.404 SEVERE [http-nio-8086-exec-16] org.hibernate.util.JDBCExceptionReporter.logExceptions Cannot create PoolableConnectionFactory (Unknown database 'test')
+27-Aug-2025 10:13:24.404 SEVERE [http-nio-8086-exec-16] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute could not get database metadata
+	org.apache.commons.dbcp.SQLNestedException: Cannot create PoolableConnectionFactory (Unknown database 'test')
+		at org.apache.commons.dbcp.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:1549)
+		at org.apache.commons.dbcp.BasicDataSource.createDataSource(BasicDataSource.java:1388)
+		at org.apache.commons.dbcp.BasicDataSource.getConnection(BasicDataSource.java:1044)
+		at org.springframework.orm.hibernate3.LocalDataSourceConnectionProvider.getConnection(LocalDataSourceConnectionProvider.java:81)
+		at org.hibernate.tool.hbm2ddl.SuppliedConnectionProviderConnectionHelper.prepare(SuppliedConnectionProviderConnectionHelper.java:27)
+		at org.hibernate.tool.hbm2ddl.SchemaUpdate.execute(SchemaUpdate.java:127)
+		at org.hibernate.impl.SessionFactoryImpl.<init>(SessionFactoryImpl.java:314)
+		at org.hibernate.cfg.Configuration.buildSessionFactory(Configuration.java:1294)
+		at org.springframework.orm.hibernate3.LocalSessionFactoryBean.newSessionFactory(LocalSessionFactoryBean.java:855)
+		at org.springframework.orm.hibernate3.LocalSessionFactoryBean.buildSessionFactory(LocalSessionFactoryBean.java:774)
+		at org.springframework.orm.hibernate3.AbstractSessionFactoryBean.afterPropertiesSet(AbstractSessionFactoryBean.java:211)
+		at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1469)
+		at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1409)
+		at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:519)
+		at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:456)
+		at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:291)
+		at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:222)
+		at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:288)
+		at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:190)
+		at org.springframework.beans.factory.support.BeanDefinitionValueResolver.resolveReference(BeanDefinitionValueResolver.java:322)
+		at org.springframework.beans.factory.support.BeanDefinitionValueResolver.resolveValueIfNecessary(BeanDefinitionValueResolver.java:106)
+		at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.applyPropertyValues(AbstractAutowireCapableBeanFactory.java:1317)
+		at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1076)
+		at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:517)
+		at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:456)
+		at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:291)
+		at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:222)
+		at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:288)
+		at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:190)
+		at org.springframework.beans.factory.support.BeanDefinitionValueResolver.resolveReference(BeanDefinitionValueResolver.java:322)
+		at org.springframework.beans.factory.support.BeanDefinitionValueResolver.resolveValueIfNecessary(BeanDefinitionValueResolver.java:106)
+		at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.applyPropertyValues(AbstractAutowireCapableBeanFactory.java:1317)
+		at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1076)
+		at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:517)
+		at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:456)
+		at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:291)
+		at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:222)
+		at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:288)
+		at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:190)
+		at org.springframework.beans.factory.support.DefaultListableBeanFactory.findAutowireCandidates(DefaultListableBeanFactory.java:827)
+		at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:769)
+		at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:686)
+		at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredMethodElement.inject(AutowiredAnnotationBeanPostProcessor.java:559)
+		at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:84)
+		at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessPropertyValues(AutowiredAnnotationBeanPostProcessor.java:283)
+		at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1064)
+		at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:517)
+		at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:456)
+		at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:291)
+		at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:222)
+		at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:288)
+		at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:190)
+		at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:563)
+		at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:872)
+		at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:423)
+		at org.springframework.web.servlet.FrameworkServlet.createWebApplicationContext(FrameworkServlet.java:442)
+		at org.springframework.web.servlet.FrameworkServlet.createWebApplicationContext(FrameworkServlet.java:458)
+		at org.springframework.web.servlet.FrameworkServlet.initWebApplicationContext(FrameworkServlet.java:339)
+		at org.springframework.web.servlet.FrameworkServlet.initServletBean(FrameworkServlet.java:306)
+		at org.springframework.web.servlet.HttpServletBean.init(HttpServletBean.java:127)
+		at javax.servlet.GenericServlet.init(GenericServlet.java:143)
+		at org.apache.catalina.core.StandardWrapper.initServlet(StandardWrapper.java:989)
+		at org.apache.catalina.core.StandardWrapper.loadServlet(StandardWrapper.java:946)
+		at org.apache.catalina.core.StandardWrapper.allocate(StandardWrapper.java:664)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:116)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:130)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:656)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:346)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:397)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:935)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1826)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1189)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:658)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+		at java.base/java.lang.Thread.run(Thread.java:1575)
+	Caused by: java.sql.SQLSyntaxErrorException: Unknown database 'test'
+		at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:112)
+		at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:114)
+		at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:833)
+		at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:416)
+		at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:238)
+		at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:180)
+		at org.apache.commons.dbcp.DriverConnectionFactory.createConnection(DriverConnectionFactory.java:38)
+		at org.apache.commons.dbcp.PoolableConnectionFactory.makeObject(PoolableConnectionFactory.java:582)
+		at org.apache.commons.dbcp.BasicDataSource.validateConnectionFactory(BasicDataSource.java:1556)
+		at org.apache.commons.dbcp.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:1545)
+		... 80 more
+27-Aug-2025 10:13:24.404 SEVERE [http-nio-8086-exec-16] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute could not complete schema update
+	org.apache.commons.dbcp.SQLNestedException: Cannot create PoolableConnectionFactory (Unknown database 'test')
+		at org.apache.commons.dbcp.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:1549)
+		at org.apache.commons.dbcp.BasicDataSource.createDataSource(BasicDataSource.java:1388)
+		at org.apache.commons.dbcp.BasicDataSource.getConnection(BasicDataSource.java:1044)
+		at org.springframework.orm.hibernate3.LocalDataSourceConnectionProvider.getConnection(LocalDataSourceConnectionProvider.java:81)
+		at org.hibernate.tool.hbm2ddl.SuppliedConnectionProviderConnectionHelper.prepare(SuppliedConnectionProviderConnectionHelper.java:27)
+		at org.hibernate.tool.hbm2ddl.SchemaUpdate.execute(SchemaUpdate.java:127)
+		at org.hibernate.impl.SessionFactoryImpl.<init>(SessionFactoryImpl.java:314)
+		at org.hibernate.cfg.Configuration.buildSessionFactory(Configuration.java:1294)
+		at org.springframework.orm.hibernate3.LocalSessionFactoryBean.newSessionFactory(LocalSessionFactoryBean.java:855)
+		at org.springframework.orm.hibernate3.LocalSessionFactoryBean.buildSessionFactory(LocalSessionFactoryBean.java:774)
+		at org.springframework.orm.hibernate3.AbstractSessionFactoryBean.afterPropertiesSet(AbstractSessionFactoryBean.java:211)
+		at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1469)
+		at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1409)
+		at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:519)
+		at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:456)
+		at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:291)
+		at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:222)
+		at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:288)
+		at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:190)
+		at org.springframework.beans.factory.support.BeanDefinitionValueResolver.resolveReference(BeanDefinitionValueResolver.java:322)
+		at org.springframework.beans.factory.support.BeanDefinitionValueResolver.resolveValueIfNecessary(BeanDefinitionValueResolver.java:106)
+		at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.applyPropertyValues(AbstractAutowireCapableBeanFactory.java:1317)
+		at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1076)
+		at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:517)
+		at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:456)
+		at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:291)
+		at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:222)
+		at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:288)
+		at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:190)
+		at org.springframework.beans.factory.support.BeanDefinitionValueResolver.resolveReference(BeanDefinitionValueResolver.java:322)
+		at org.springframework.beans.factory.support.BeanDefinitionValueResolver.resolveValueIfNecessary(BeanDefinitionValueResolver.java:106)
+		at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.applyPropertyValues(AbstractAutowireCapableBeanFactory.java:1317)
+		at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1076)
+		at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:517)
+		at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:456)
+		at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:291)
+		at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:222)
+		at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:288)
+		at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:190)
+		at org.springframework.beans.factory.support.DefaultListableBeanFactory.findAutowireCandidates(DefaultListableBeanFactory.java:827)
+		at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:769)
+		at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:686)
+		at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredMethodElement.inject(AutowiredAnnotationBeanPostProcessor.java:559)
+		at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:84)
+		at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessPropertyValues(AutowiredAnnotationBeanPostProcessor.java:283)
+		at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1064)
+		at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:517)
+		at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:456)
+		at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:291)
+		at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:222)
+		at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:288)
+		at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:190)
+		at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:563)
+		at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:872)
+		at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:423)
+		at org.springframework.web.servlet.FrameworkServlet.createWebApplicationContext(FrameworkServlet.java:442)
+		at org.springframework.web.servlet.FrameworkServlet.createWebApplicationContext(FrameworkServlet.java:458)
+		at org.springframework.web.servlet.FrameworkServlet.initWebApplicationContext(FrameworkServlet.java:339)
+		at org.springframework.web.servlet.FrameworkServlet.initServletBean(FrameworkServlet.java:306)
+		at org.springframework.web.servlet.HttpServletBean.init(HttpServletBean.java:127)
+		at javax.servlet.GenericServlet.init(GenericServlet.java:143)
+		at org.apache.catalina.core.StandardWrapper.initServlet(StandardWrapper.java:989)
+		at org.apache.catalina.core.StandardWrapper.loadServlet(StandardWrapper.java:946)
+		at org.apache.catalina.core.StandardWrapper.allocate(StandardWrapper.java:664)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:116)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:130)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:656)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:346)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:397)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:935)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1826)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1189)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:658)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+		at java.base/java.lang.Thread.run(Thread.java:1575)
+	Caused by: java.sql.SQLSyntaxErrorException: Unknown database 'test'
+		at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:112)
+		at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:114)
+		at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:833)
+		at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:416)
+		at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:238)
+		at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:180)
+		at org.apache.commons.dbcp.DriverConnectionFactory.createConnection(DriverConnectionFactory.java:38)
+		at org.apache.commons.dbcp.PoolableConnectionFactory.makeObject(PoolableConnectionFactory.java:582)
+		at org.apache.commons.dbcp.BasicDataSource.validateConnectionFactory(BasicDataSource.java:1556)
+		at org.apache.commons.dbcp.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:1545)
+		... 80 more
+27-Aug-2025 10:13:24.447 INFO [http-nio-8086-exec-16] org.springframework.web.servlet.handler.AbstractUrlHandlerMapping.registerHandler Mapped URL path [/deleteaccount.html] onto handler [spr.controller.LoginController@414e56a7]
+27-Aug-2025 10:13:24.447 INFO [http-nio-8086-exec-16] org.springframework.web.servlet.handler.AbstractUrlHandlerMapping.registerHandler Mapped URL path [/LoadPage.html] onto handler [spr.controller.LoginController@414e56a7]
+27-Aug-2025 10:13:24.447 INFO [http-nio-8086-exec-16] org.springframework.web.servlet.handler.AbstractUrlHandlerMapping.registerHandler Mapped URL path [/newuser.html] onto handler [spr.controller.LoginController@414e56a7]
+27-Aug-2025 10:13:24.447 INFO [http-nio-8086-exec-16] org.springframework.web.servlet.handler.AbstractUrlHandlerMapping.registerHandler Mapped URL path [/updatepass.html] onto handler [spr.controller.LoginController@414e56a7]
+27-Aug-2025 10:13:24.447 INFO [http-nio-8086-exec-16] org.springframework.web.servlet.handler.AbstractUrlHandlerMapping.registerHandler Mapped URL path [/LoginCode.html] onto handler [spr.controller.LoginController@414e56a7]
+27-Aug-2025 10:13:24.447 INFO [http-nio-8086-exec-16] org.springframework.web.servlet.handler.AbstractUrlHandlerMapping.registerHandler Mapped URL path [/NewUserCode.html] onto handler [spr.controller.LoginController@414e56a7]
+27-Aug-2025 10:13:24.537 INFO [http-nio-8086-exec-16] org.springframework.web.servlet.FrameworkServlet.initServletBean FrameworkServlet 'dispatcher': initialization completed in 1352 ms
+27-Aug-2025 10:13:24.545 WARNING [http-nio-8086-exec-16] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/SpringMVCWebApp/] in DispatcherServlet with name 'dispatcher'
+27-Aug-2025 10:15:14.442 INFO [http-nio-8086-exec-25] org.springframework.context.support.AbstractApplicationContext.doClose Closing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Wed Aug 27 10:13:23 IST 2025]; root of context hierarchy
+27-Aug-2025 10:15:14.443 INFO [http-nio-8086-exec-25] org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingletons Destroying singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@305311ac: defining beans [viewResolver,loginController,org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,org.springframework.context.annotation.internalPersistenceAnnotationProcessor,dataSource,sessionFactory,template1,dao]; root of factory hierarchy
+27-Aug-2025 10:15:14.482 INFO [http-nio-8086-exec-25] org.springframework.orm.hibernate3.AbstractSessionFactoryBean.destroy Closing Hibernate SessionFactory
+27-Aug-2025 10:15:14.482 INFO [http-nio-8086-exec-25] org.hibernate.impl.SessionFactoryImpl.close closing
+27-Aug-2025 10:15:14.488 WARNING [http-nio-8086-exec-25] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [SpringMVCWebApp] registered the JDBC driver [com.mysql.cj.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+27-Aug-2025 10:15:14.488 WARNING [http-nio-8086-exec-25] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [SpringMVCWebApp] appears to have started a thread named [mysql-cj-abandoned-connection-cleanup] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.base/jdk.internal.misc.Unsafe.park(Native Method)
+ java.base/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:269)
+ java.base/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:1852)
+ java.base/java.lang.ref.ReferenceQueue.await(ReferenceQueue.java:79)
+ java.base/java.lang.ref.ReferenceQueue.remove0(ReferenceQueue.java:151)
+ java.base/java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:229)
+ com.mysql.cj.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:84)
+ java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+ java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+ java.base/java.lang.Thread.run(Thread.java:1575)
+27-Aug-2025 10:15:15.187 INFO [http-nio-8086-exec-23] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+27-Aug-2025 10:15:18.807 INFO [mysql-cj-abandoned-connection-cleanup] org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading Illegal access: this web application instance has been stopped already. Could not load []. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+	java.lang.IllegalStateException: Illegal access: this web application instance has been stopped already. Could not load []. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+		at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading(WebappClassLoaderBase.java:1374)
+		at org.apache.catalina.loader.WebappClassLoaderBase.getResource(WebappClassLoaderBase.java:997)
+		at com.mysql.cj.jdbc.AbandonedConnectionCleanupThread.checkThreadContextClassLoader(AbandonedConnectionCleanupThread.java:116)
+		at com.mysql.cj.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:83)
+		at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+		at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+		at java.base/java.lang.Thread.run(Thread.java:1575)
+27-Aug-2025 10:15:20.527 INFO [http-nio-8086-exec-24] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+27-Aug-2025 10:15:20.924 INFO [http-nio-8086-exec-30] org.springframework.web.servlet.FrameworkServlet.initServletBean FrameworkServlet 'dispatcher': initialization started
+27-Aug-2025 10:15:20.940 INFO [http-nio-8086-exec-30] org.springframework.context.support.AbstractApplicationContext.prepareRefresh Refreshing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Wed Aug 27 10:15:20 IST 2025]; root of context hierarchy
+27-Aug-2025 10:15:20.983 INFO [http-nio-8086-exec-30] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions Loading XML bean definitions from ServletContext resource [/WEB-INF/dispatcher-servlet.xml]
+27-Aug-2025 10:15:21.059 INFO [http-nio-8086-exec-30] org.springframework.context.annotation.ClassPathScanningCandidateComponentProvider.registerDefaultFilters JSR-250 'javax.annotation.ManagedBean' found and supported for component scanning
+27-Aug-2025 10:15:21.151 INFO [http-nio-8086-exec-30] org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@23445a6b: defining beans [viewResolver,loginController,org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,org.springframework.context.annotation.internalPersistenceAnnotationProcessor,dataSource,sessionFactory,template1,dao]; root of factory hierarchy
+27-Aug-2025 10:15:21.241 INFO [http-nio-8086-exec-30] org.hibernate.cfg.Environment.<clinit> Hibernate 3.2.5
+27-Aug-2025 10:15:21.243 INFO [http-nio-8086-exec-30] org.hibernate.cfg.Environment.<clinit> hibernate.properties not found
+27-Aug-2025 10:15:21.244 INFO [http-nio-8086-exec-30] org.hibernate.cfg.Environment.buildBytecodeProvider Bytecode provider name : cglib
+27-Aug-2025 10:15:21.245 INFO [http-nio-8086-exec-30] org.hibernate.cfg.Environment.<clinit> using JDK 1.4 java.sql.Timestamp handling
+27-Aug-2025 10:15:21.307 INFO [http-nio-8086-exec-30] org.hibernate.cfg.HbmBinder.bindRootPersistentClassCommonValues Mapping class: spr.dto.User -> userlogintab2025
+27-Aug-2025 10:15:21.316 INFO [http-nio-8086-exec-30] org.springframework.orm.hibernate3.LocalSessionFactoryBean.buildSessionFactory Building new Hibernate SessionFactory
+27-Aug-2025 10:15:21.335 INFO [http-nio-8086-exec-30] org.hibernate.connection.ConnectionProviderFactory.newConnectionProvider Initializing connection provider: org.springframework.orm.hibernate3.LocalDataSourceConnectionProvider
+27-Aug-2025 10:15:21.584 INFO [http-nio-8086-exec-30] org.hibernate.cfg.SettingsFactory.buildSettings RDBMS: MySQL, version: 9.3.0
+27-Aug-2025 10:15:21.585 INFO [http-nio-8086-exec-30] org.hibernate.cfg.SettingsFactory.buildSettings JDBC driver: MySQL Connector/J, version: mysql-connector-j-9.3.0 (Revision: 20ef8ee9eb4294a03858acccea0ddad3525f1ff9)
+27-Aug-2025 10:15:21.592 INFO [http-nio-8086-exec-30] org.hibernate.dialect.Dialect.<init> Using dialect: org.hibernate.dialect.MySQLDialect
+27-Aug-2025 10:15:21.594 INFO [http-nio-8086-exec-30] org.hibernate.transaction.TransactionFactoryFactory.buildTransactionFactory Transaction strategy: org.springframework.orm.hibernate3.SpringTransactionFactory
+27-Aug-2025 10:15:21.595 INFO [http-nio-8086-exec-30] org.hibernate.transaction.TransactionManagerLookupFactory.getTransactionManagerLookup No TransactionManagerLookup configured (in JTA environment, use of read-write or transactional second-level cache is not recommended)
+27-Aug-2025 10:15:21.595 INFO [http-nio-8086-exec-30] org.hibernate.cfg.SettingsFactory.buildSettings Automatic flush during beforeCompletion(): disabled
+27-Aug-2025 10:15:21.595 INFO [http-nio-8086-exec-30] org.hibernate.cfg.SettingsFactory.buildSettings Automatic session close at end of transaction: disabled
+27-Aug-2025 10:15:21.595 INFO [http-nio-8086-exec-30] org.hibernate.cfg.SettingsFactory.buildSettings JDBC batch size: 15
+27-Aug-2025 10:15:21.595 INFO [http-nio-8086-exec-30] org.hibernate.cfg.SettingsFactory.buildSettings JDBC batch updates for versioned data: disabled
+27-Aug-2025 10:15:21.596 INFO [http-nio-8086-exec-30] org.hibernate.cfg.SettingsFactory.buildSettings Scrollable result sets: enabled
+27-Aug-2025 10:15:21.596 INFO [http-nio-8086-exec-30] org.hibernate.cfg.SettingsFactory.buildSettings JDBC3 getGeneratedKeys(): enabled
+27-Aug-2025 10:15:21.596 INFO [http-nio-8086-exec-30] org.hibernate.cfg.SettingsFactory.buildSettings Connection release mode: auto
+27-Aug-2025 10:15:21.596 INFO [http-nio-8086-exec-30] org.hibernate.cfg.SettingsFactory.buildSettings Maximum outer join fetch depth: 2
+27-Aug-2025 10:15:21.597 INFO [http-nio-8086-exec-30] org.hibernate.cfg.SettingsFactory.buildSettings Default batch fetch size: 1
+27-Aug-2025 10:15:21.598 INFO [http-nio-8086-exec-30] org.hibernate.cfg.SettingsFactory.buildSettings Generate SQL with comments: disabled
+27-Aug-2025 10:15:21.598 INFO [http-nio-8086-exec-30] org.hibernate.cfg.SettingsFactory.buildSettings Order SQL updates by primary key: disabled
+27-Aug-2025 10:15:21.598 INFO [http-nio-8086-exec-30] org.hibernate.cfg.SettingsFactory.buildSettings Order SQL inserts for batching: disabled
+27-Aug-2025 10:15:21.598 INFO [http-nio-8086-exec-30] org.hibernate.cfg.SettingsFactory.createQueryTranslatorFactory Query translator: org.hibernate.hql.ast.ASTQueryTranslatorFactory
+27-Aug-2025 10:15:21.599 INFO [http-nio-8086-exec-30] org.hibernate.hql.ast.ASTQueryTranslatorFactory.<init> Using ASTQueryTranslatorFactory
+27-Aug-2025 10:15:21.600 INFO [http-nio-8086-exec-30] org.hibernate.cfg.SettingsFactory.buildSettings Query language substitutions: {}
+27-Aug-2025 10:15:21.601 INFO [http-nio-8086-exec-30] org.hibernate.cfg.SettingsFactory.buildSettings JPA-QL strict compliance: disabled
+27-Aug-2025 10:15:21.602 INFO [http-nio-8086-exec-30] org.hibernate.cfg.SettingsFactory.buildSettings Second-level cache: enabled
+27-Aug-2025 10:15:21.603 INFO [http-nio-8086-exec-30] org.hibernate.cfg.SettingsFactory.buildSettings Query cache: disabled
+27-Aug-2025 10:15:21.603 INFO [http-nio-8086-exec-30] org.hibernate.cfg.SettingsFactory.createCacheProvider Cache provider: org.hibernate.cache.NoCacheProvider
+27-Aug-2025 10:15:21.603 INFO [http-nio-8086-exec-30] org.hibernate.cfg.SettingsFactory.buildSettings Optimize cache for minimal puts: disabled
+27-Aug-2025 10:15:21.603 INFO [http-nio-8086-exec-30] org.hibernate.cfg.SettingsFactory.buildSettings Structured second-level cache entries: disabled
+27-Aug-2025 10:15:21.605 INFO [http-nio-8086-exec-30] org.hibernate.cfg.SettingsFactory.buildSettings Echoing all SQL to stdout
+27-Aug-2025 10:15:21.605 INFO [http-nio-8086-exec-30] org.hibernate.cfg.SettingsFactory.buildSettings Statistics: disabled
+27-Aug-2025 10:15:21.606 INFO [http-nio-8086-exec-30] org.hibernate.cfg.SettingsFactory.buildSettings Deleted entity synthetic identifier rollback: disabled
+27-Aug-2025 10:15:21.606 INFO [http-nio-8086-exec-30] org.hibernate.cfg.SettingsFactory.buildSettings Default entity-mode: pojo
+27-Aug-2025 10:15:21.606 INFO [http-nio-8086-exec-30] org.hibernate.cfg.SettingsFactory.buildSettings Named query checking : enabled
+27-Aug-2025 10:15:21.631 INFO [http-nio-8086-exec-30] org.hibernate.impl.SessionFactoryImpl.<init> building session factory
+27-Aug-2025 10:15:21.725 INFO [http-nio-8086-exec-30] org.hibernate.impl.SessionFactoryObjectFactory.addInstance Not binding factory to JNDI, no JNDI name configured
+27-Aug-2025 10:15:21.727 INFO [http-nio-8086-exec-30] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute Running hbm2ddl schema update
+27-Aug-2025 10:15:21.728 INFO [http-nio-8086-exec-30] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute fetching database metadata
+27-Aug-2025 10:15:21.732 INFO [http-nio-8086-exec-30] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute updating schema
+27-Aug-2025 10:15:21.786 INFO [http-nio-8086-exec-30] org.hibernate.tool.hbm2ddl.DatabaseMetadata.getTableMetadata table not found: userlogintab2025
+27-Aug-2025 10:15:21.793 INFO [http-nio-8086-exec-30] org.hibernate.tool.hbm2ddl.DatabaseMetadata.getTableMetadata table not found: userlogintab2025
+27-Aug-2025 10:15:21.810 INFO [http-nio-8086-exec-30] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute schema update complete
+27-Aug-2025 10:15:21.841 INFO [http-nio-8086-exec-30] org.springframework.web.servlet.handler.AbstractUrlHandlerMapping.registerHandler Mapped URL path [/deleteaccount.html] onto handler [spr.controller.LoginController@20cbde34]
+27-Aug-2025 10:15:21.841 INFO [http-nio-8086-exec-30] org.springframework.web.servlet.handler.AbstractUrlHandlerMapping.registerHandler Mapped URL path [/LoadPage.html] onto handler [spr.controller.LoginController@20cbde34]
+27-Aug-2025 10:15:21.841 INFO [http-nio-8086-exec-30] org.springframework.web.servlet.handler.AbstractUrlHandlerMapping.registerHandler Mapped URL path [/newuser.html] onto handler [spr.controller.LoginController@20cbde34]
+27-Aug-2025 10:15:21.841 INFO [http-nio-8086-exec-30] org.springframework.web.servlet.handler.AbstractUrlHandlerMapping.registerHandler Mapped URL path [/updatepass.html] onto handler [spr.controller.LoginController@20cbde34]
+27-Aug-2025 10:15:21.841 INFO [http-nio-8086-exec-30] org.springframework.web.servlet.handler.AbstractUrlHandlerMapping.registerHandler Mapped URL path [/LoginCode.html] onto handler [spr.controller.LoginController@20cbde34]
+27-Aug-2025 10:15:21.841 INFO [http-nio-8086-exec-30] org.springframework.web.servlet.handler.AbstractUrlHandlerMapping.registerHandler Mapped URL path [/NewUserCode.html] onto handler [spr.controller.LoginController@20cbde34]
+27-Aug-2025 10:15:21.889 INFO [http-nio-8086-exec-30] org.springframework.web.servlet.FrameworkServlet.initServletBean FrameworkServlet 'dispatcher': initialization completed in 964 ms
+27-Aug-2025 10:15:21.895 WARNING [http-nio-8086-exec-30] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/SpringMVCWebApp/] in DispatcherServlet with name 'dispatcher'
+27-Aug-2025 10:18:37.187 WARNING [http-nio-8086-exec-36] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/SpringMVCWebApp/] in DispatcherServlet with name 'dispatcher'
+27-Aug-2025 11:37:39.504 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+27-Aug-2025 11:37:39.518 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8086"]
+27-Aug-2025 11:37:39.524 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+27-Aug-2025 11:37:39.559 WARNING [main] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [Bank-Ease] appears to have started a thread named [mysql-cj-abandoned-connection-cleanup] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.base/jdk.internal.misc.Unsafe.park(Native Method)
+ java.base/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:269)
+ java.base/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:1852)
+ java.base/java.lang.ref.ReferenceQueue.await(ReferenceQueue.java:79)
+ java.base/java.lang.ref.ReferenceQueue.remove0(ReferenceQueue.java:151)
+ java.base/java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:229)
+ com.mysql.cj.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:84)
+ java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+ java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+ java.base/java.lang.Thread.run(Thread.java:1575)
+27-Aug-2025 11:37:39.572 INFO [main] org.springframework.context.support.AbstractApplicationContext.doClose Closing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Wed Aug 27 10:15:20 IST 2025]; root of context hierarchy
+27-Aug-2025 11:37:39.575 INFO [main] org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingletons Destroying singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@23445a6b: defining beans [viewResolver,loginController,org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,org.springframework.context.annotation.internalPersistenceAnnotationProcessor,dataSource,sessionFactory,template1,dao]; root of factory hierarchy
+27-Aug-2025 11:37:39.611 INFO [main] org.springframework.orm.hibernate3.AbstractSessionFactoryBean.destroy Closing Hibernate SessionFactory
+27-Aug-2025 11:37:39.611 INFO [main] org.hibernate.impl.SessionFactoryImpl.close closing
+27-Aug-2025 11:37:39.614 WARNING [main] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [SpringMVCWebApp] registered the JDBC driver [com.mysql.cj.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+27-Aug-2025 11:37:39.615 WARNING [main] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [SpringMVCWebApp] appears to have started a thread named [mysql-cj-abandoned-connection-cleanup] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.base/jdk.internal.misc.Unsafe.park(Native Method)
+ java.base/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:269)
+ java.base/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:1852)
+ java.base/java.lang.ref.ReferenceQueue.await(ReferenceQueue.java:79)
+ java.base/java.lang.ref.ReferenceQueue.remove0(ReferenceQueue.java:151)
+ java.base/java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:229)
+ com.mysql.cj.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:84)
+ java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+ java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+ java.base/java.lang.Thread.run(Thread.java:1575)
+27-Aug-2025 11:37:39.654 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8086"]
+27-Aug-2025 11:37:39.673 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8086"]

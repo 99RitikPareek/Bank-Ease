@@ -1,0 +1,16 @@
+127.0.0.1 - - [20/Aug/2025:17:18:08 +0530] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - - [20/Aug/2025:17:18:08 +0530] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - - [20/Aug/2025:17:18:08 +0530] "GET /manager/text/ HTTP/1.1" 401 2499
+127.0.0.1 - root [20/Aug/2025:17:18:10 +0530] "GET /manager/text/ HTTP/1.1" 200 38
+127.0.0.1 - - [20/Aug/2025:17:18:10 +0530] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - root [20/Aug/2025:17:18:10 +0530] "GET /manager/text/ HTTP/1.1" 200 38
+127.0.0.1 - - [20/Aug/2025:17:18:10 +0530] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - root [20/Aug/2025:17:18:10 +0530] "GET /manager/text/ HTTP/1.1" 200 38
+127.0.0.1 - - [20/Aug/2025:17:18:10 +0530] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - root [20/Aug/2025:17:18:10 +0530] "GET /manager/text/ HTTP/1.1" 200 38
+127.0.0.1 - root [20/Aug/2025:17:18:10 +0530] "GET /manager/text/list HTTP/1.1" 200 732
+127.0.0.1 - root [20/Aug/2025:17:18:10 +0530] "GET /manager/text/list HTTP/1.1" 200 732
+0:0:0:0:0:0:0:1 - - [20/Aug/2025:17:18:13 +0530] "GET /SpringMVCWebApp HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [20/Aug/2025:17:18:13 +0530] "GET /SpringMVCWebApp/ HTTP/1.1" 200 1173
+0:0:0:0:0:0:0:1 - - [20/Aug/2025:17:18:13 +0530] "GET /SpringMVCWebApp/background.png HTTP/1.1" 404 786
+0:0:0:0:0:0:0:1 - - [20/Aug/2025:17:18:13 +0530] "GET /SpringMVCWebApp/dummy-man.png HTTP/1.1" 404 785

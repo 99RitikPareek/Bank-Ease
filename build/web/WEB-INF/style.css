@@ -1,0 +1,31 @@
+body{
+            background-image: url('pr.jpg');
+            background-size:100%; 
+        }
+        .tabtheme{
+            font-size: 20px;
+            color: graytext;
+            text-transform: uppercase;
+            text-align: center;
+            font-family: arial;
+            background-color: highlighttext;
+            height: 40px;
+        }
+        
+        .box:hover{
+            background-color:black; 
+                
+        }
+        .title{
+                margin-left:800px;
+                color:black;
+                text-transform: uppercase;
+                font-family:arial;
+        }
+        .titletab{
+            margin-left:200px;
+            margin-top:50px;
+            color:white;
+            font-size:30px
+        }
+   

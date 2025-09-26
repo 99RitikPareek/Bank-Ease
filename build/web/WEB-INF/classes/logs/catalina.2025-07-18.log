@@ -1,0 +1,536 @@
+18-Jul-2025 15:52:02.672 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.107
+18-Jul-2025 15:52:02.689 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Jul 2 2025 07:01:03 UTC
+18-Jul-2025 15:52:02.690 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.107.0
+18-Jul-2025 15:52:02.690 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Mac OS X
+18-Jul-2025 15:52:02.690 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            15.5
+18-Jul-2025 15:52:02.690 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          x86_64
+18-Jul-2025 15:52:02.692 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /Applications/Apache NetBeans.app/Contents/Home
+18-Jul-2025 15:52:02.692 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           23.0.2+7
+18-Jul-2025 15:52:02.692 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Azul Systems, Inc.
+18-Jul-2025 15:52:02.692 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /Users/ritikpareek/Softwares/apache-tomcat-9.0.107 2
+18-Jul-2025 15:52:02.693 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /Users/ritikpareek/Softwares/apache-tomcat-9.0.107 2
+18-Jul-2025 15:52:02.716 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+18-Jul-2025 15:52:02.717 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang.invoke=ALL-UNNAMED
+18-Jul-2025 15:52:02.718 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang.reflect=ALL-UNNAMED
+18-Jul-2025 15:52:02.718 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+18-Jul-2025 15:52:02.718 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+18-Jul-2025 15:52:02.718 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+18-Jul-2025 15:52:02.718 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+18-Jul-2025 15:52:02.718 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/Users/ritikpareek/Softwares/apache-tomcat-9.0.107 2/conf/logging.properties
+18-Jul-2025 15:52:02.719 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+18-Jul-2025 15:52:02.720 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dhttp.nonProxyHosts=localhost|127.0.0.1|Ritiks-MacBook-Air.local
+18-Jul-2025 15:52:02.721 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+18-Jul-2025 15:52:02.721 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+18-Jul-2025 15:52:02.722 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.io.useCanonCaches=false
+18-Jul-2025 15:52:02.722 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+18-Jul-2025 15:52:02.722 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+18-Jul-2025 15:52:02.722 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/Users/ritikpareek/Softwares/apache-tomcat-9.0.107 2
+18-Jul-2025 15:52:02.722 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/Users/ritikpareek/Softwares/apache-tomcat-9.0.107 2
+18-Jul-2025 15:52:02.722 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/Users/ritikpareek/Softwares/apache-tomcat-9.0.107 2/temp
+18-Jul-2025 15:52:02.735 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/Users/ritikpareek/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+18-Jul-2025 15:52:03.535 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8086"]
+18-Jul-2025 15:52:03.606 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [1309] milliseconds
+18-Jul-2025 15:52:03.698 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+18-Jul-2025 15:52:03.699 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.107]
+18-Jul-2025 15:52:03.705 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [/Users/ritikpareek/Softwares/apache-tomcat-9.0.107 2/conf/Catalina/localhost/Bank-Ease.xml]
+18-Jul-2025 15:52:03.722 WARNING [main] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/Bank-Ease] in deployment descriptor [/Users/ritikpareek/Softwares/apache-tomcat-9.0.107 2/conf/Catalina/localhost/Bank-Ease.xml] has been ignored
+18-Jul-2025 15:52:03.964 WARNING [main] org.apache.tomcat.util.descriptor.web.WebXml.setVersion Unknown version string [6.1]. Default version will be used.
+18-Jul-2025 15:52:04.511 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Jul-2025 15:52:04.600 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [/Users/ritikpareek/Softwares/apache-tomcat-9.0.107 2/conf/Catalina/localhost/Bank-Ease.xml] has finished in [894] ms
+18-Jul-2025 15:52:04.601 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [/Users/ritikpareek/Softwares/apache-tomcat-9.0.107 2/conf/Catalina/localhost/TestWeb.xml]
+18-Jul-2025 15:52:04.603 WARNING [main] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/TestWeb] in deployment descriptor [/Users/ritikpareek/Softwares/apache-tomcat-9.0.107 2/conf/Catalina/localhost/TestWeb.xml] has been ignored
+18-Jul-2025 15:52:05.385 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Jul-2025 15:52:05.573 INFO [main] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Parsing configuration file [struts-default.xml]
+18-Jul-2025 15:52:05.648 INFO [main] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Parsing configuration file [struts-plugin.xml]
+18-Jul-2025 15:52:05.662 INFO [main] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Parsing configuration file [struts.xml]
+18-Jul-2025 15:52:05.955 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [/Users/ritikpareek/Softwares/apache-tomcat-9.0.107 2/conf/Catalina/localhost/TestWeb.xml] has finished in [1,353] ms
+18-Jul-2025 15:52:05.955 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [/Users/ritikpareek/Softwares/apache-tomcat-9.0.107 2/conf/Catalina/localhost/Test_web.xml]
+18-Jul-2025 15:52:05.965 WARNING [main] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/Test_web] in deployment descriptor [/Users/ritikpareek/Softwares/apache-tomcat-9.0.107 2/conf/Catalina/localhost/Test_web.xml] has been ignored
+18-Jul-2025 15:52:05.982 SEVERE [main] org.apache.catalina.startup.HostConfig.deployDescriptor Error deploying deployment descriptor [/Users/ritikpareek/Softwares/apache-tomcat-9.0.107 2/conf/Catalina/localhost/Test_web.xml]
+	java.lang.IllegalStateException: Error starting child
+		at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:602)
+		at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:571)
+		at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:603)
+		at org.apache.catalina.startup.HostConfig.deployDescriptor(HostConfig.java:680)
+		at org.apache.catalina.startup.HostConfig$DeployDescriptor.run(HostConfig.java:1839)
+		at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+		at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+		at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:76)
+		at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:124)
+		at org.apache.catalina.startup.HostConfig.deployDescriptors(HostConfig.java:575)
+		at org.apache.catalina.startup.HostConfig.deployApps(HostConfig.java:466)
+		at org.apache.catalina.startup.HostConfig.start(HostConfig.java:1579)
+		at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:312)
+		at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:109)
+		at org.apache.catalina.util.LifecycleBase.setStateInternal(LifecycleBase.java:389)
+		at org.apache.catalina.util.LifecycleBase.setState(LifecycleBase.java:336)
+		at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:776)
+		at org.apache.catalina.core.StandardHost.startInternal(StandardHost.java:721)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+		at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1203)
+		at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1193)
+		at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+		at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:76)
+		at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:148)
+		at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:749)
+		at org.apache.catalina.core.StandardEngine.startInternal(StandardEngine.java:211)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+		at org.apache.catalina.core.StandardService.startInternal(StandardService.java:412)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+		at org.apache.catalina.core.StandardServer.startInternal(StandardServer.java:874)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+		at org.apache.catalina.startup.Catalina.start(Catalina.java:739)
+		at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+		at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+		at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:345)
+		at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:476)
+	Caused by: org.apache.catalina.LifecycleException: Failed to start component [org.apache.catalina.webresources.StandardRoot@2fa212df]
+		at org.apache.catalina.util.LifecycleBase.handleSubClassException(LifecycleBase.java:406)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:179)
+		at org.apache.catalina.core.StandardContext.resourcesStart(StandardContext.java:4172)
+		at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:4294)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+		at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:599)
+		... 35 more
+	Caused by: java.lang.IllegalArgumentException: The main resource set specified [/Users/ritikpareek/NetBeansProjects/Test_web/build/web] is not a directory or war file, or is not readable (it does not exist or permissions to access it are missing)
+		at org.apache.catalina.webresources.StandardRoot.createMainResourceSet(StandardRoot.java:758)
+		at org.apache.catalina.webresources.StandardRoot.startInternal(StandardRoot.java:715)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+		... 39 more
+18-Jul-2025 15:52:05.984 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [/Users/ritikpareek/Softwares/apache-tomcat-9.0.107 2/conf/Catalina/localhost/Test_web.xml] has finished in [29] ms
+18-Jul-2025 15:52:05.984 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [/Users/ritikpareek/Softwares/apache-tomcat-9.0.107 2/conf/Catalina/localhost/Fintech_Services.xml]
+18-Jul-2025 15:52:05.986 WARNING [main] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/Fintech_Services] in deployment descriptor [/Users/ritikpareek/Softwares/apache-tomcat-9.0.107 2/conf/Catalina/localhost/Fintech_Services.xml] has been ignored
+18-Jul-2025 15:52:06.156 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Jul-2025 15:52:06.160 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [/Users/ritikpareek/Softwares/apache-tomcat-9.0.107 2/conf/Catalina/localhost/Fintech_Services.xml] has finished in [175] ms
+18-Jul-2025 15:52:06.160 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [/Users/ritikpareek/Softwares/apache-tomcat-9.0.107 2/conf/Catalina/localhost/ROOT.xml]
+18-Jul-2025 15:52:06.161 WARNING [main] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [] in deployment descriptor [/Users/ritikpareek/Softwares/apache-tomcat-9.0.107 2/conf/Catalina/localhost/ROOT.xml] has been ignored
+18-Jul-2025 15:52:06.166 SEVERE [main] org.apache.catalina.startup.HostConfig.deployDescriptor Error deploying deployment descriptor [/Users/ritikpareek/Softwares/apache-tomcat-9.0.107 2/conf/Catalina/localhost/ROOT.xml]
+	java.lang.IllegalStateException: Error starting child
+		at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:602)
+		at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:571)
+		at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:603)
+		at org.apache.catalina.startup.HostConfig.deployDescriptor(HostConfig.java:680)
+		at org.apache.catalina.startup.HostConfig$DeployDescriptor.run(HostConfig.java:1839)
+		at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+		at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+		at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:76)
+		at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:124)
+		at org.apache.catalina.startup.HostConfig.deployDescriptors(HostConfig.java:575)
+		at org.apache.catalina.startup.HostConfig.deployApps(HostConfig.java:466)
+		at org.apache.catalina.startup.HostConfig.start(HostConfig.java:1579)
+		at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:312)
+		at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:109)
+		at org.apache.catalina.util.LifecycleBase.setStateInternal(LifecycleBase.java:389)
+		at org.apache.catalina.util.LifecycleBase.setState(LifecycleBase.java:336)
+		at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:776)
+		at org.apache.catalina.core.StandardHost.startInternal(StandardHost.java:721)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+		at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1203)
+		at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1193)
+		at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+		at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:76)
+		at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:148)
+		at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:749)
+		at org.apache.catalina.core.StandardEngine.startInternal(StandardEngine.java:211)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+		at org.apache.catalina.core.StandardService.startInternal(StandardService.java:412)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+		at org.apache.catalina.core.StandardServer.startInternal(StandardServer.java:874)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+		at org.apache.catalina.startup.Catalina.start(Catalina.java:739)
+		at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+		at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+		at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:345)
+		at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:476)
+	Caused by: org.apache.catalina.LifecycleException: Failed to start component [org.apache.catalina.webresources.StandardRoot@70ce2fb2]
+		at org.apache.catalina.util.LifecycleBase.handleSubClassException(LifecycleBase.java:406)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:179)
+		at org.apache.catalina.core.StandardContext.resourcesStart(StandardContext.java:4172)
+		at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:4294)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+		at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:599)
+		... 35 more
+	Caused by: java.lang.IllegalArgumentException: The main resource set specified [/Users/ritikpareek/NetBeansProjects/ChargeBuddy/build/web] is not a directory or war file, or is not readable (it does not exist or permissions to access it are missing)
+		at org.apache.catalina.webresources.StandardRoot.createMainResourceSet(StandardRoot.java:758)
+		at org.apache.catalina.webresources.StandardRoot.startInternal(StandardRoot.java:715)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+		... 39 more
+18-Jul-2025 15:52:06.170 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [/Users/ritikpareek/Softwares/apache-tomcat-9.0.107 2/conf/Catalina/localhost/ROOT.xml] has finished in [10] ms
+18-Jul-2025 15:52:06.172 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/ritikpareek/Softwares/apache-tomcat-9.0.107 2/webapps/docs]
+18-Jul-2025 15:52:06.238 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/ritikpareek/Softwares/apache-tomcat-9.0.107 2/webapps/docs] has finished in [65] ms
+18-Jul-2025 15:52:06.239 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/ritikpareek/Softwares/apache-tomcat-9.0.107 2/webapps/manager]
+18-Jul-2025 15:52:06.300 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/ritikpareek/Softwares/apache-tomcat-9.0.107 2/webapps/manager] has finished in [61] ms
+18-Jul-2025 15:52:06.300 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/ritikpareek/Softwares/apache-tomcat-9.0.107 2/webapps/examples]
+18-Jul-2025 15:52:06.640 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/ritikpareek/Softwares/apache-tomcat-9.0.107 2/webapps/examples] has finished in [340] ms
+18-Jul-2025 15:52:06.640 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/ritikpareek/Softwares/apache-tomcat-9.0.107 2/webapps/host-manager]
+18-Jul-2025 15:52:06.674 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/ritikpareek/Softwares/apache-tomcat-9.0.107 2/webapps/host-manager] has finished in [33] ms
+18-Jul-2025 15:52:06.676 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8086"]
+18-Jul-2025 15:52:06.699 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [3090] milliseconds
+18-Jul-2025 15:52:23.822 WARNING [http-nio-8086-exec-2] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+18-Jul-2025 15:52:24.049 WARNING [http-nio-8086-exec-2] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+18-Jul-2025 15:52:48.921 INFO [http-nio-8086-exec-6] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Unable to find 'struts.multipart.saveDir' property setting. Defaulting to javax.servlet.context.tempdir
+18-Jul-2025 15:52:48.967 SEVERE [http-nio-8086-exec-6] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.error Unable to parse request
+	org.apache.commons.fileupload.FileUploadBase$SizeLimitExceededException: the request was rejected because its size (218358919) exceeds the configured maximum (2097152)
+		at org.apache.commons.fileupload.FileUploadBase$FileItemIteratorImpl.<init>(FileUploadBase.java:914)
+		at org.apache.commons.fileupload.FileUploadBase.getItemIterator(FileUploadBase.java:331)
+		at org.apache.commons.fileupload.FileUploadBase.parseRequest(FileUploadBase.java:349)
+		at org.apache.struts2.dispatcher.multipart.JakartaMultiPartRequest.parse(JakartaMultiPartRequest.java:93)
+		at org.apache.struts2.dispatcher.multipart.MultiPartRequestWrapper.<init>(MultiPartRequestWrapper.java:75)
+		at org.apache.struts2.dispatcher.Dispatcher.wrapRequest(Dispatcher.java:663)
+		at org.apache.struts2.dispatcher.ng.PrepareOperations.wrapRequest(PrepareOperations.java:128)
+		at org.apache.struts2.dispatcher.ng.filter.StrutsPrepareAndExecuteFilter.doFilter(StrutsPrepareAndExecuteFilter.java:68)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:168)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:144)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:168)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:130)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:656)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:346)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:397)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:935)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1826)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1189)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:658)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+		at java.base/java.lang.Thread.run(Thread.java:1575)
+18-Jul-2025 15:52:48.984 SEVERE [http-nio-8086-exec-6] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.error the request was rejected because its size (218358919) exceeds the configured maximum (2097152)
+18-Jul-2025 15:52:49.058 WARNING [http-nio-8086-exec-6] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+18-Jul-2025 15:52:49.167 WARNING [http-nio-8086-exec-6] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+18-Jul-2025 15:54:02.630 INFO [http-nio-8086-exec-2] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/TestWeb] has started
+18-Jul-2025 15:54:03.338 INFO [http-nio-8086-exec-2] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Jul-2025 15:54:03.439 INFO [http-nio-8086-exec-2] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Parsing configuration file [struts-default.xml]
+18-Jul-2025 15:54:03.503 INFO [http-nio-8086-exec-2] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Parsing configuration file [struts-plugin.xml]
+18-Jul-2025 15:54:03.515 INFO [http-nio-8086-exec-2] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Parsing configuration file [struts.xml]
+18-Jul-2025 15:54:03.730 INFO [http-nio-8086-exec-2] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/TestWeb] is completed
+18-Jul-2025 15:54:07.278 INFO [http-nio-8086-exec-9] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/TestWeb] has started
+18-Jul-2025 15:54:07.701 INFO [http-nio-8086-exec-9] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Jul-2025 15:54:07.762 INFO [http-nio-8086-exec-9] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Parsing configuration file [struts-default.xml]
+18-Jul-2025 15:54:07.815 INFO [http-nio-8086-exec-9] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Parsing configuration file [struts-plugin.xml]
+18-Jul-2025 15:54:07.824 INFO [http-nio-8086-exec-9] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Parsing configuration file [struts.xml]
+18-Jul-2025 15:54:07.952 INFO [http-nio-8086-exec-9] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/TestWeb] is completed
+18-Jul-2025 15:54:13.474 WARNING [http-nio-8086-exec-5] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+18-Jul-2025 15:54:13.692 WARNING [http-nio-8086-exec-5] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+18-Jul-2025 15:55:14.489 INFO [http-nio-8086-exec-13] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Unable to find 'struts.multipart.saveDir' property setting. Defaulting to javax.servlet.context.tempdir
+18-Jul-2025 15:55:14.529 SEVERE [http-nio-8086-exec-13] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.error Unable to parse request
+	org.apache.commons.fileupload.FileUploadBase$SizeLimitExceededException: the request was rejected because its size (218358919) exceeds the configured maximum (2097152)
+		at org.apache.commons.fileupload.FileUploadBase$FileItemIteratorImpl.<init>(FileUploadBase.java:914)
+		at org.apache.commons.fileupload.FileUploadBase.getItemIterator(FileUploadBase.java:331)
+		at org.apache.commons.fileupload.FileUploadBase.parseRequest(FileUploadBase.java:349)
+		at org.apache.struts2.dispatcher.multipart.JakartaMultiPartRequest.parse(JakartaMultiPartRequest.java:93)
+		at org.apache.struts2.dispatcher.multipart.MultiPartRequestWrapper.<init>(MultiPartRequestWrapper.java:75)
+		at org.apache.struts2.dispatcher.Dispatcher.wrapRequest(Dispatcher.java:663)
+		at org.apache.struts2.dispatcher.ng.PrepareOperations.wrapRequest(PrepareOperations.java:128)
+		at org.apache.struts2.dispatcher.ng.filter.StrutsPrepareAndExecuteFilter.doFilter(StrutsPrepareAndExecuteFilter.java:68)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:168)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:144)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:168)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:130)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:656)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:346)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:397)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:935)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1826)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1189)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:658)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+		at java.base/java.lang.Thread.run(Thread.java:1575)
+18-Jul-2025 15:55:14.542 SEVERE [http-nio-8086-exec-13] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.error the request was rejected because its size (218358919) exceeds the configured maximum (2097152)
+18-Jul-2025 15:55:14.555 WARNING [http-nio-8086-exec-13] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn Could not find action or result
+	No result defined for action struts.hibernate.action.CustomerAction and result input
+		at com.opensymphony.xwork2.DefaultActionInvocation.executeResult(DefaultActionInvocation.java:363)
+		at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:265)
+		at com.opensymphony.xwork2.validator.ValidationInterceptor.doIntercept(ValidationInterceptor.java:249)
+		at org.apache.struts2.interceptor.validation.AnnotationValidationInterceptor.doIntercept(AnnotationValidationInterceptor.java:68)
+		at com.opensymphony.xwork2.interceptor.MethodFilterInterceptor.intercept(MethodFilterInterceptor.java:87)
+		at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:236)
+		at com.opensymphony.xwork2.interceptor.ConversionErrorInterceptor.intercept(ConversionErrorInterceptor.java:122)
+		at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:236)
+		at com.opensymphony.xwork2.interceptor.ParametersInterceptor.doIntercept(ParametersInterceptor.java:195)
+		at com.opensymphony.xwork2.interceptor.MethodFilterInterceptor.intercept(MethodFilterInterceptor.java:87)
+		at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:236)
+		at com.opensymphony.xwork2.interceptor.ParametersInterceptor.doIntercept(ParametersInterceptor.java:195)
+		at com.opensymphony.xwork2.interceptor.MethodFilterInterceptor.intercept(MethodFilterInterceptor.java:87)
+		at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:236)
+		at com.opensymphony.xwork2.interceptor.StaticParametersInterceptor.intercept(StaticParametersInterceptor.java:148)
+		at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:236)
+		at org.apache.struts2.interceptor.CheckboxInterceptor.intercept(CheckboxInterceptor.java:93)
+		at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:236)
+		at org.apache.struts2.interceptor.FileUploadInterceptor.intercept(FileUploadInterceptor.java:306)
+		at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:236)
+		at com.opensymphony.xwork2.interceptor.ModelDrivenInterceptor.intercept(ModelDrivenInterceptor.java:89)
+		at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:236)
+		at com.opensymphony.xwork2.interceptor.ScopedModelDrivenInterceptor.intercept(ScopedModelDrivenInterceptor.java:128)
+		at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:236)
+		at org.apache.struts2.interceptor.ProfilingActivationInterceptor.intercept(ProfilingActivationInterceptor.java:104)
+		at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:236)
+		at org.apache.struts2.interceptor.debugging.DebuggingInterceptor.intercept(DebuggingInterceptor.java:267)
+		at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:236)
+		at com.opensymphony.xwork2.interceptor.ChainingInterceptor.intercept(ChainingInterceptor.java:126)
+		at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:236)
+		at com.opensymphony.xwork2.interceptor.PrepareInterceptor.doIntercept(PrepareInterceptor.java:138)
+		at com.opensymphony.xwork2.interceptor.MethodFilterInterceptor.intercept(MethodFilterInterceptor.java:87)
+		at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:236)
+		at com.opensymphony.xwork2.interceptor.I18nInterceptor.intercept(I18nInterceptor.java:148)
+		at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:236)
+		at org.apache.struts2.interceptor.ServletConfigInterceptor.intercept(ServletConfigInterceptor.java:164)
+		at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:236)
+		at com.opensymphony.xwork2.interceptor.AliasInterceptor.intercept(AliasInterceptor.java:128)
+		at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:236)
+		at com.opensymphony.xwork2.interceptor.ExceptionMappingInterceptor.intercept(ExceptionMappingInterceptor.java:176)
+		at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:236)
+		at org.apache.struts2.impl.StrutsActionProxy.execute(StrutsActionProxy.java:52)
+		at org.apache.struts2.dispatcher.Dispatcher.serviceAction(Dispatcher.java:468)
+		at org.apache.struts2.dispatcher.ng.ExecuteOperations.executeAction(ExecuteOperations.java:77)
+		at org.apache.struts2.dispatcher.ng.filter.StrutsPrepareAndExecuteFilter.doFilter(StrutsPrepareAndExecuteFilter.java:76)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:168)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:144)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:168)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:130)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:656)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:346)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:397)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:935)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1826)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1189)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:658)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+		at java.base/java.lang.Thread.run(Thread.java:1575)
+18-Jul-2025 15:55:51.575 INFO [http-nio-8086-exec-21] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/TestWeb] has started
+18-Jul-2025 15:55:52.014 INFO [http-nio-8086-exec-21] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Jul-2025 15:55:52.079 INFO [http-nio-8086-exec-21] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Parsing configuration file [struts-default.xml]
+18-Jul-2025 15:55:52.132 INFO [http-nio-8086-exec-21] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Parsing configuration file [struts-plugin.xml]
+18-Jul-2025 15:55:52.138 INFO [http-nio-8086-exec-21] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Parsing configuration file [struts.xml]
+18-Jul-2025 15:55:52.255 INFO [http-nio-8086-exec-21] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/TestWeb] is completed
+18-Jul-2025 15:56:05.504 INFO [http-nio-8086-exec-19] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/TestWeb] has started
+18-Jul-2025 15:56:05.905 INFO [http-nio-8086-exec-19] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Jul-2025 15:56:05.945 INFO [http-nio-8086-exec-19] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Parsing configuration file [struts-default.xml]
+18-Jul-2025 15:56:05.993 INFO [http-nio-8086-exec-19] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Parsing configuration file [struts-plugin.xml]
+18-Jul-2025 15:56:05.998 INFO [http-nio-8086-exec-19] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Parsing configuration file [struts.xml]
+18-Jul-2025 15:56:06.476 INFO [http-nio-8086-exec-19] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/TestWeb] is completed
+18-Jul-2025 15:56:09.448 WARNING [http-nio-8086-exec-15] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+18-Jul-2025 15:56:09.639 WARNING [http-nio-8086-exec-15] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+18-Jul-2025 15:56:28.213 INFO [http-nio-8086-exec-6] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Unable to find 'struts.multipart.saveDir' property setting. Defaulting to javax.servlet.context.tempdir
+18-Jul-2025 15:56:28.237 SEVERE [http-nio-8086-exec-6] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.error Unable to parse request
+	org.apache.commons.fileupload.FileUploadBase$SizeLimitExceededException: the request was rejected because its size (218358919) exceeds the configured maximum (2097152)
+		at org.apache.commons.fileupload.FileUploadBase$FileItemIteratorImpl.<init>(FileUploadBase.java:914)
+		at org.apache.commons.fileupload.FileUploadBase.getItemIterator(FileUploadBase.java:331)
+		at org.apache.commons.fileupload.FileUploadBase.parseRequest(FileUploadBase.java:349)
+		at org.apache.struts2.dispatcher.multipart.JakartaMultiPartRequest.parse(JakartaMultiPartRequest.java:93)
+		at org.apache.struts2.dispatcher.multipart.MultiPartRequestWrapper.<init>(MultiPartRequestWrapper.java:75)
+		at org.apache.struts2.dispatcher.Dispatcher.wrapRequest(Dispatcher.java:663)
+		at org.apache.struts2.dispatcher.ng.PrepareOperations.wrapRequest(PrepareOperations.java:128)
+		at org.apache.struts2.dispatcher.ng.filter.StrutsPrepareAndExecuteFilter.doFilter(StrutsPrepareAndExecuteFilter.java:68)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:168)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:144)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:168)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:130)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:656)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:346)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:397)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:935)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1826)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1189)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:658)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+		at java.base/java.lang.Thread.run(Thread.java:1575)
+18-Jul-2025 15:56:28.260 SEVERE [http-nio-8086-exec-6] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.error the request was rejected because its size (218358919) exceeds the configured maximum (2097152)
+18-Jul-2025 15:56:28.299 WARNING [http-nio-8086-exec-6] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+18-Jul-2025 15:56:28.356 WARNING [http-nio-8086-exec-6] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+18-Jul-2025 15:56:29.388 SEVERE [http-nio-8086-exec-17] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.error Unable to parse request
+	org.apache.commons.fileupload.FileUploadBase$SizeLimitExceededException: the request was rejected because its size (218358919) exceeds the configured maximum (2097152)
+		at org.apache.commons.fileupload.FileUploadBase$FileItemIteratorImpl.<init>(FileUploadBase.java:914)
+		at org.apache.commons.fileupload.FileUploadBase.getItemIterator(FileUploadBase.java:331)
+		at org.apache.commons.fileupload.FileUploadBase.parseRequest(FileUploadBase.java:349)
+		at org.apache.struts2.dispatcher.multipart.JakartaMultiPartRequest.parse(JakartaMultiPartRequest.java:93)
+		at org.apache.struts2.dispatcher.multipart.MultiPartRequestWrapper.<init>(MultiPartRequestWrapper.java:75)
+		at org.apache.struts2.dispatcher.Dispatcher.wrapRequest(Dispatcher.java:663)
+		at org.apache.struts2.dispatcher.ng.PrepareOperations.wrapRequest(PrepareOperations.java:128)
+		at org.apache.struts2.dispatcher.ng.filter.StrutsPrepareAndExecuteFilter.doFilter(StrutsPrepareAndExecuteFilter.java:68)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:168)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:144)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:168)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:130)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:656)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:346)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:397)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:935)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1826)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1189)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:658)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+		at java.base/java.lang.Thread.run(Thread.java:1575)
+18-Jul-2025 15:56:29.400 SEVERE [http-nio-8086-exec-17] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.error the request was rejected because its size (218358919) exceeds the configured maximum (2097152)
+18-Jul-2025 15:56:29.430 WARNING [http-nio-8086-exec-17] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+18-Jul-2025 15:56:29.460 WARNING [http-nio-8086-exec-17] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+18-Jul-2025 15:56:30.481 SEVERE [http-nio-8086-exec-23] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.error Unable to parse request
+	org.apache.commons.fileupload.FileUploadBase$SizeLimitExceededException: the request was rejected because its size (218358919) exceeds the configured maximum (2097152)
+		at org.apache.commons.fileupload.FileUploadBase$FileItemIteratorImpl.<init>(FileUploadBase.java:914)
+		at org.apache.commons.fileupload.FileUploadBase.getItemIterator(FileUploadBase.java:331)
+		at org.apache.commons.fileupload.FileUploadBase.parseRequest(FileUploadBase.java:349)
+		at org.apache.struts2.dispatcher.multipart.JakartaMultiPartRequest.parse(JakartaMultiPartRequest.java:93)
+		at org.apache.struts2.dispatcher.multipart.MultiPartRequestWrapper.<init>(MultiPartRequestWrapper.java:75)
+		at org.apache.struts2.dispatcher.Dispatcher.wrapRequest(Dispatcher.java:663)
+		at org.apache.struts2.dispatcher.ng.PrepareOperations.wrapRequest(PrepareOperations.java:128)
+		at org.apache.struts2.dispatcher.ng.filter.StrutsPrepareAndExecuteFilter.doFilter(StrutsPrepareAndExecuteFilter.java:68)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:168)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:144)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:168)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:130)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:656)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:346)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:397)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:935)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1826)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1189)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:658)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+		at java.base/java.lang.Thread.run(Thread.java:1575)
+18-Jul-2025 15:56:30.487 SEVERE [http-nio-8086-exec-23] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.error the request was rejected because its size (218358919) exceeds the configured maximum (2097152)
+18-Jul-2025 15:56:30.520 WARNING [http-nio-8086-exec-23] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+18-Jul-2025 15:56:30.550 WARNING [http-nio-8086-exec-23] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+18-Jul-2025 15:56:54.916 INFO [http-nio-8086-exec-13] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/TestWeb] has started
+18-Jul-2025 15:56:55.457 INFO [http-nio-8086-exec-13] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Jul-2025 15:56:55.534 INFO [http-nio-8086-exec-13] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Parsing configuration file [struts-default.xml]
+18-Jul-2025 15:56:55.580 INFO [http-nio-8086-exec-13] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Parsing configuration file [struts-plugin.xml]
+18-Jul-2025 15:56:55.586 INFO [http-nio-8086-exec-13] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Parsing configuration file [struts.xml]
+18-Jul-2025 15:56:55.732 INFO [http-nio-8086-exec-13] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/TestWeb] is completed
+18-Jul-2025 15:57:00.787 INFO [http-nio-8086-exec-13] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/TestWeb] has started
+18-Jul-2025 15:57:01.144 INFO [http-nio-8086-exec-13] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Jul-2025 15:57:01.188 INFO [http-nio-8086-exec-13] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Parsing configuration file [struts-default.xml]
+18-Jul-2025 15:57:01.229 INFO [http-nio-8086-exec-13] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Parsing configuration file [struts-plugin.xml]
+18-Jul-2025 15:57:01.233 INFO [http-nio-8086-exec-13] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Parsing configuration file [struts.xml]
+18-Jul-2025 15:57:01.349 INFO [http-nio-8086-exec-13] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/TestWeb] is completed
+18-Jul-2025 15:57:08.127 WARNING [http-nio-8086-exec-29] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+18-Jul-2025 15:57:08.351 WARNING [http-nio-8086-exec-29] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+18-Jul-2025 15:57:25.514 INFO [http-nio-8086-exec-24] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Unable to find 'struts.multipart.saveDir' property setting. Defaulting to javax.servlet.context.tempdir
+18-Jul-2025 15:57:25.536 SEVERE [http-nio-8086-exec-24] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.error Unable to parse request
+	org.apache.commons.fileupload.FileUploadBase$SizeLimitExceededException: the request was rejected because its size (218358919) exceeds the configured maximum (2097152)
+		at org.apache.commons.fileupload.FileUploadBase$FileItemIteratorImpl.<init>(FileUploadBase.java:914)
+		at org.apache.commons.fileupload.FileUploadBase.getItemIterator(FileUploadBase.java:331)
+		at org.apache.commons.fileupload.FileUploadBase.parseRequest(FileUploadBase.java:349)
+		at org.apache.struts2.dispatcher.multipart.JakartaMultiPartRequest.parse(JakartaMultiPartRequest.java:93)
+		at org.apache.struts2.dispatcher.multipart.MultiPartRequestWrapper.<init>(MultiPartRequestWrapper.java:75)
+		at org.apache.struts2.dispatcher.Dispatcher.wrapRequest(Dispatcher.java:663)
+		at org.apache.struts2.dispatcher.ng.PrepareOperations.wrapRequest(PrepareOperations.java:128)
+		at org.apache.struts2.dispatcher.ng.filter.StrutsPrepareAndExecuteFilter.doFilter(StrutsPrepareAndExecuteFilter.java:68)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:168)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:144)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:168)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:130)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:656)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:346)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:397)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:935)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1826)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1189)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:658)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+		at java.base/java.lang.Thread.run(Thread.java:1575)
+18-Jul-2025 15:57:25.547 SEVERE [http-nio-8086-exec-24] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.error the request was rejected because its size (218358919) exceeds the configured maximum (2097152)
+18-Jul-2025 15:57:25.558 WARNING [http-nio-8086-exec-24] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn Could not find action or result
+	No result defined for action struts.hibernate.action.CustomerAction and result input
+		at com.opensymphony.xwork2.DefaultActionInvocation.executeResult(DefaultActionInvocation.java:363)
+		at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:265)
+		at com.opensymphony.xwork2.validator.ValidationInterceptor.doIntercept(ValidationInterceptor.java:249)
+		at org.apache.struts2.interceptor.validation.AnnotationValidationInterceptor.doIntercept(AnnotationValidationInterceptor.java:68)
+		at com.opensymphony.xwork2.interceptor.MethodFilterInterceptor.intercept(MethodFilterInterceptor.java:87)
+		at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:236)
+		at com.opensymphony.xwork2.interceptor.ConversionErrorInterceptor.intercept(ConversionErrorInterceptor.java:122)
+		at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:236)
+		at com.opensymphony.xwork2.interceptor.ParametersInterceptor.doIntercept(ParametersInterceptor.java:195)
+		at com.opensymphony.xwork2.interceptor.MethodFilterInterceptor.intercept(MethodFilterInterceptor.java:87)
+		at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:236)
+		at com.opensymphony.xwork2.interceptor.ParametersInterceptor.doIntercept(ParametersInterceptor.java:195)
+		at com.opensymphony.xwork2.interceptor.MethodFilterInterceptor.intercept(MethodFilterInterceptor.java:87)
+		at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:236)
+		at com.opensymphony.xwork2.interceptor.StaticParametersInterceptor.intercept(StaticParametersInterceptor.java:148)
+		at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:236)
+		at org.apache.struts2.interceptor.CheckboxInterceptor.intercept(CheckboxInterceptor.java:93)
+		at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:236)
+		at org.apache.struts2.interceptor.FileUploadInterceptor.intercept(FileUploadInterceptor.java:306)
+		at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:236)
+		at com.opensymphony.xwork2.interceptor.ModelDrivenInterceptor.intercept(ModelDrivenInterceptor.java:89)
+		at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:236)
+		at com.opensymphony.xwork2.interceptor.ScopedModelDrivenInterceptor.intercept(ScopedModelDrivenInterceptor.java:128)
+		at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:236)
+		at org.apache.struts2.interceptor.ProfilingActivationInterceptor.intercept(ProfilingActivationInterceptor.java:104)
+		at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:236)
+		at org.apache.struts2.interceptor.debugging.DebuggingInterceptor.intercept(DebuggingInterceptor.java:267)
+		at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:236)
+		at com.opensymphony.xwork2.interceptor.ChainingInterceptor.intercept(ChainingInterceptor.java:126)
+		at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:236)
+		at com.opensymphony.xwork2.interceptor.PrepareInterceptor.doIntercept(PrepareInterceptor.java:138)
+		at com.opensymphony.xwork2.interceptor.MethodFilterInterceptor.intercept(MethodFilterInterceptor.java:87)
+		at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:236)
+		at com.opensymphony.xwork2.interceptor.I18nInterceptor.intercept(I18nInterceptor.java:148)
+		at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:236)
+		at org.apache.struts2.interceptor.ServletConfigInterceptor.intercept(ServletConfigInterceptor.java:164)
+		at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:236)
+		at com.opensymphony.xwork2.interceptor.AliasInterceptor.intercept(AliasInterceptor.java:128)
+		at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:236)
+		at com.opensymphony.xwork2.interceptor.ExceptionMappingInterceptor.intercept(ExceptionMappingInterceptor.java:176)
+		at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:236)
+		at org.apache.struts2.impl.StrutsActionProxy.execute(StrutsActionProxy.java:52)
+		at org.apache.struts2.dispatcher.Dispatcher.serviceAction(Dispatcher.java:468)
+		at org.apache.struts2.dispatcher.ng.ExecuteOperations.executeAction(ExecuteOperations.java:77)
+		at org.apache.struts2.dispatcher.ng.filter.StrutsPrepareAndExecuteFilter.doFilter(StrutsPrepareAndExecuteFilter.java:76)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:168)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:144)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:168)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:130)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:656)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:346)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:397)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:935)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1826)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1189)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:658)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+		at java.base/java.lang.Thread.run(Thread.java:1575)

@@ -1,0 +1,1293 @@
+14-Jul-2025 16:43:27.704 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.107
+14-Jul-2025 16:43:27.715 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Jul 2 2025 07:01:03 UTC
+14-Jul-2025 16:43:27.715 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.107.0
+14-Jul-2025 16:43:27.715 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Mac OS X
+14-Jul-2025 16:43:27.716 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            15.5
+14-Jul-2025 16:43:27.716 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          x86_64
+14-Jul-2025 16:43:27.716 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /Applications/Apache NetBeans.app/Contents/Home
+14-Jul-2025 16:43:27.716 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           23.0.2+7
+14-Jul-2025 16:43:27.716 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Azul Systems, Inc.
+14-Jul-2025 16:43:27.717 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /Users/ritikpareek/Softwares/apache-tomcat-9.0.107 2
+14-Jul-2025 16:43:27.718 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /Users/ritikpareek/Softwares/apache-tomcat-9.0.107 2
+14-Jul-2025 16:43:27.739 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+14-Jul-2025 16:43:27.739 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang.invoke=ALL-UNNAMED
+14-Jul-2025 16:43:27.739 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang.reflect=ALL-UNNAMED
+14-Jul-2025 16:43:27.739 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+14-Jul-2025 16:43:27.740 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+14-Jul-2025 16:43:27.740 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+14-Jul-2025 16:43:27.740 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+14-Jul-2025 16:43:27.740 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/Users/ritikpareek/Softwares/apache-tomcat-9.0.107 2/conf/logging.properties
+14-Jul-2025 16:43:27.740 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+14-Jul-2025 16:43:27.740 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dhttp.nonProxyHosts=localhost|127.0.0.1|Ritiks-MacBook-Air.local
+14-Jul-2025 16:43:27.740 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+14-Jul-2025 16:43:27.741 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+14-Jul-2025 16:43:27.741 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.io.useCanonCaches=false
+14-Jul-2025 16:43:27.741 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+14-Jul-2025 16:43:27.742 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+14-Jul-2025 16:43:27.742 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/Users/ritikpareek/Softwares/apache-tomcat-9.0.107 2
+14-Jul-2025 16:43:27.742 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/Users/ritikpareek/Softwares/apache-tomcat-9.0.107 2
+14-Jul-2025 16:43:27.742 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/Users/ritikpareek/Softwares/apache-tomcat-9.0.107 2/temp
+14-Jul-2025 16:43:27.753 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/Users/ritikpareek/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+14-Jul-2025 16:43:28.504 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+14-Jul-2025 16:43:28.594 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [1223] milliseconds
+14-Jul-2025 16:43:28.690 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+14-Jul-2025 16:43:28.691 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.107]
+14-Jul-2025 16:43:28.699 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [/Users/ritikpareek/Softwares/apache-tomcat-9.0.107 2/conf/Catalina/localhost/Bank-Ease.xml]
+14-Jul-2025 16:43:28.719 WARNING [main] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/Bank-Ease] in deployment descriptor [/Users/ritikpareek/Softwares/apache-tomcat-9.0.107 2/conf/Catalina/localhost/Bank-Ease.xml] has been ignored
+14-Jul-2025 16:43:28.972 WARNING [main] org.apache.tomcat.util.descriptor.web.WebXml.setVersion Unknown version string [6.1]. Default version will be used.
+14-Jul-2025 16:43:29.521 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+14-Jul-2025 16:43:29.613 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [/Users/ritikpareek/Softwares/apache-tomcat-9.0.107 2/conf/Catalina/localhost/Bank-Ease.xml] has finished in [913] ms
+14-Jul-2025 16:43:29.614 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [/Users/ritikpareek/Softwares/apache-tomcat-9.0.107 2/conf/Catalina/localhost/TestWeb.xml]
+14-Jul-2025 16:43:29.616 WARNING [main] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/TestWeb] in deployment descriptor [/Users/ritikpareek/Softwares/apache-tomcat-9.0.107 2/conf/Catalina/localhost/TestWeb.xml] has been ignored
+14-Jul-2025 16:43:30.454 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+14-Jul-2025 16:43:30.644 INFO [main] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Parsing configuration file [struts-default.xml]
+14-Jul-2025 16:43:30.726 INFO [main] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Parsing configuration file [struts-plugin.xml]
+14-Jul-2025 16:43:30.735 INFO [main] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Parsing configuration file [struts.xml]
+14-Jul-2025 16:43:31.056 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [/Users/ritikpareek/Softwares/apache-tomcat-9.0.107 2/conf/Catalina/localhost/TestWeb.xml] has finished in [1,442] ms
+14-Jul-2025 16:43:31.057 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [/Users/ritikpareek/Softwares/apache-tomcat-9.0.107 2/conf/Catalina/localhost/ROOT.xml]
+14-Jul-2025 16:43:31.066 WARNING [main] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [] in deployment descriptor [/Users/ritikpareek/Softwares/apache-tomcat-9.0.107 2/conf/Catalina/localhost/ROOT.xml] has been ignored
+14-Jul-2025 16:43:31.099 SEVERE [main] org.apache.catalina.startup.HostConfig.deployDescriptor Error deploying deployment descriptor [/Users/ritikpareek/Softwares/apache-tomcat-9.0.107 2/conf/Catalina/localhost/ROOT.xml]
+	java.lang.IllegalStateException: Error starting child
+		at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:602)
+		at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:571)
+		at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:603)
+		at org.apache.catalina.startup.HostConfig.deployDescriptor(HostConfig.java:680)
+		at org.apache.catalina.startup.HostConfig$DeployDescriptor.run(HostConfig.java:1839)
+		at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+		at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+		at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:76)
+		at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:124)
+		at org.apache.catalina.startup.HostConfig.deployDescriptors(HostConfig.java:575)
+		at org.apache.catalina.startup.HostConfig.deployApps(HostConfig.java:466)
+		at org.apache.catalina.startup.HostConfig.start(HostConfig.java:1579)
+		at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:312)
+		at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:109)
+		at org.apache.catalina.util.LifecycleBase.setStateInternal(LifecycleBase.java:389)
+		at org.apache.catalina.util.LifecycleBase.setState(LifecycleBase.java:336)
+		at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:776)
+		at org.apache.catalina.core.StandardHost.startInternal(StandardHost.java:721)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+		at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1203)
+		at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1193)
+		at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+		at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:76)
+		at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:148)
+		at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:749)
+		at org.apache.catalina.core.StandardEngine.startInternal(StandardEngine.java:211)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+		at org.apache.catalina.core.StandardService.startInternal(StandardService.java:412)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+		at org.apache.catalina.core.StandardServer.startInternal(StandardServer.java:874)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+		at org.apache.catalina.startup.Catalina.start(Catalina.java:739)
+		at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+		at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+		at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:345)
+		at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:476)
+	Caused by: org.apache.catalina.LifecycleException: Failed to initialize component [org.apache.catalina.webresources.JarResourceSet@53e28097]
+		at org.apache.catalina.util.LifecycleBase.handleSubClassException(LifecycleBase.java:406)
+		at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:125)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:155)
+		at org.apache.catalina.webresources.StandardRoot.startInternal(StandardRoot.java:733)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+		at org.apache.catalina.core.StandardContext.resourcesStart(StandardContext.java:4172)
+		at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:4294)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+		at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:599)
+		... 35 more
+	Caused by: java.lang.IllegalArgumentException: java.io.IOException: java.lang.reflect.InvocationTargetException
+		at org.apache.catalina.webresources.AbstractSingleArchiveResourceSet.initInternal(AbstractSingleArchiveResourceSet.java:141)
+		at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:122)
+		... 42 more
+	Caused by: java.io.IOException: java.lang.reflect.InvocationTargetException
+		at org.apache.tomcat.util.compat.Jre9Compat.jarFileNewInstance(Jre9Compat.java:208)
+		at org.apache.tomcat.util.compat.Jre12Compat.jarFileNewInstance(Jre12Compat.java:33)
+		at org.apache.tomcat.util.compat.JreCompat.jarFileNewInstance(JreCompat.java:302)
+		at org.apache.catalina.webresources.AbstractSingleArchiveResourceSet.initInternal(AbstractSingleArchiveResourceSet.java:138)
+		... 43 more
+	Caused by: java.lang.reflect.InvocationTargetException
+		at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:74)
+		at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:501)
+		at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:485)
+		at org.apache.tomcat.util.compat.Jre9Compat.jarFileNewInstance(Jre9Compat.java:206)
+		... 46 more
+	Caused by: java.util.zip.ZipException: zip END header not found
+		at java.base/java.util.zip.ZipFile$Source.findEND(ZipFile.java:1716)
+		at java.base/java.util.zip.ZipFile$Source.initCEN(ZipFile.java:1724)
+		at java.base/java.util.zip.ZipFile$Source.<init>(ZipFile.java:1562)
+		at java.base/java.util.zip.ZipFile$Source.get(ZipFile.java:1525)
+		at java.base/java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:744)
+		at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:254)
+		at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:181)
+		at java.base/java.util.jar.JarFile.<init>(JarFile.java:345)
+		at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62)
+		... 49 more
+14-Jul-2025 16:43:31.105 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [/Users/ritikpareek/Softwares/apache-tomcat-9.0.107 2/conf/Catalina/localhost/ROOT.xml] has finished in [48] ms
+14-Jul-2025 16:43:31.107 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/ritikpareek/Softwares/apache-tomcat-9.0.107 2/webapps/docs]
+14-Jul-2025 16:43:31.163 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/ritikpareek/Softwares/apache-tomcat-9.0.107 2/webapps/docs] has finished in [56] ms
+14-Jul-2025 16:43:31.163 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/ritikpareek/Softwares/apache-tomcat-9.0.107 2/webapps/manager]
+14-Jul-2025 16:43:31.218 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/ritikpareek/Softwares/apache-tomcat-9.0.107 2/webapps/manager] has finished in [54] ms
+14-Jul-2025 16:43:31.218 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/ritikpareek/Softwares/apache-tomcat-9.0.107 2/webapps/examples]
+14-Jul-2025 16:43:31.547 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/ritikpareek/Softwares/apache-tomcat-9.0.107 2/webapps/examples] has finished in [329] ms
+14-Jul-2025 16:43:31.547 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/ritikpareek/Softwares/apache-tomcat-9.0.107 2/webapps/host-manager]
+14-Jul-2025 16:43:31.587 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/ritikpareek/Softwares/apache-tomcat-9.0.107 2/webapps/host-manager] has finished in [39] ms
+14-Jul-2025 16:43:31.590 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+14-Jul-2025 16:43:31.607 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [3008] milliseconds
+14-Jul-2025 17:37:03.781 WARNING [http-nio-8080-exec-7] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn Could not find action or result
+	There is no Action mapped for namespace / and action name signinurl. - [unknown location]
+		at com.opensymphony.xwork2.DefaultActionProxy.prepare(DefaultActionProxy.java:177)
+		at org.apache.struts2.impl.StrutsActionProxy.prepare(StrutsActionProxy.java:61)
+		at org.apache.struts2.impl.StrutsActionProxyFactory.createActionProxy(StrutsActionProxyFactory.java:39)
+		at com.opensymphony.xwork2.DefaultActionProxyFactory.createActionProxy(DefaultActionProxyFactory.java:47)
+		at org.apache.struts2.dispatcher.Dispatcher.serviceAction(Dispatcher.java:458)
+		at org.apache.struts2.dispatcher.ng.ExecuteOperations.executeAction(ExecuteOperations.java:77)
+		at org.apache.struts2.dispatcher.ng.filter.StrutsPrepareAndExecuteFilter.doFilter(StrutsPrepareAndExecuteFilter.java:76)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:168)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:144)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:168)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:130)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:656)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:346)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:397)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:935)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1826)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1189)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:658)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+		at java.base/java.lang.Thread.run(Thread.java:1575)
+14-Jul-2025 17:37:11.994 WARNING [http-nio-8080-exec-1] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn Could not find action or result
+	There is no Action mapped for namespace / and action name signinurl. - [unknown location]
+		at com.opensymphony.xwork2.DefaultActionProxy.prepare(DefaultActionProxy.java:177)
+		at org.apache.struts2.impl.StrutsActionProxy.prepare(StrutsActionProxy.java:61)
+		at org.apache.struts2.impl.StrutsActionProxyFactory.createActionProxy(StrutsActionProxyFactory.java:39)
+		at com.opensymphony.xwork2.DefaultActionProxyFactory.createActionProxy(DefaultActionProxyFactory.java:47)
+		at org.apache.struts2.dispatcher.Dispatcher.serviceAction(Dispatcher.java:458)
+		at org.apache.struts2.dispatcher.ng.ExecuteOperations.executeAction(ExecuteOperations.java:77)
+		at org.apache.struts2.dispatcher.ng.filter.StrutsPrepareAndExecuteFilter.doFilter(StrutsPrepareAndExecuteFilter.java:76)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:168)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:144)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:168)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:130)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:656)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:346)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:397)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:935)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1826)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1189)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:658)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+		at java.base/java.lang.Thread.run(Thread.java:1575)
+14-Jul-2025 17:59:09.486 INFO [http-nio-8080-exec-7] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/TestWeb] has started
+14-Jul-2025 17:59:10.156 INFO [http-nio-8080-exec-7] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+14-Jul-2025 17:59:10.272 INFO [http-nio-8080-exec-7] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Parsing configuration file [struts-default.xml]
+14-Jul-2025 17:59:10.343 INFO [http-nio-8080-exec-7] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Parsing configuration file [struts-plugin.xml]
+14-Jul-2025 17:59:10.355 INFO [http-nio-8080-exec-7] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Parsing configuration file [struts.xml]
+14-Jul-2025 17:59:10.519 INFO [http-nio-8080-exec-7] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/TestWeb] is completed
+14-Jul-2025 17:59:17.085 WARNING [http-nio-8080-exec-6] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn Could not find action or result
+	There is no Action mapped for namespace / and action name signupurl. - [unknown location]
+		at com.opensymphony.xwork2.DefaultActionProxy.prepare(DefaultActionProxy.java:177)
+		at org.apache.struts2.impl.StrutsActionProxy.prepare(StrutsActionProxy.java:61)
+		at org.apache.struts2.impl.StrutsActionProxyFactory.createActionProxy(StrutsActionProxyFactory.java:39)
+		at com.opensymphony.xwork2.DefaultActionProxyFactory.createActionProxy(DefaultActionProxyFactory.java:47)
+		at org.apache.struts2.dispatcher.Dispatcher.serviceAction(Dispatcher.java:458)
+		at org.apache.struts2.dispatcher.ng.ExecuteOperations.executeAction(ExecuteOperations.java:77)
+		at org.apache.struts2.dispatcher.ng.filter.StrutsPrepareAndExecuteFilter.doFilter(StrutsPrepareAndExecuteFilter.java:76)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:168)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:144)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:168)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:130)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:656)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:346)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:397)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:935)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1826)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1189)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:658)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+		at java.base/java.lang.Thread.run(Thread.java:1575)
+14-Jul-2025 18:01:44.147 WARNING [http-nio-8080-exec-12] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn Could not find action or result
+	There is no Action mapped for namespace / and action name signupurl. - [unknown location]
+		at com.opensymphony.xwork2.DefaultActionProxy.prepare(DefaultActionProxy.java:177)
+		at org.apache.struts2.impl.StrutsActionProxy.prepare(StrutsActionProxy.java:61)
+		at org.apache.struts2.impl.StrutsActionProxyFactory.createActionProxy(StrutsActionProxyFactory.java:39)
+		at com.opensymphony.xwork2.DefaultActionProxyFactory.createActionProxy(DefaultActionProxyFactory.java:47)
+		at org.apache.struts2.dispatcher.Dispatcher.serviceAction(Dispatcher.java:458)
+		at org.apache.struts2.dispatcher.ng.ExecuteOperations.executeAction(ExecuteOperations.java:77)
+		at org.apache.struts2.dispatcher.ng.filter.StrutsPrepareAndExecuteFilter.doFilter(StrutsPrepareAndExecuteFilter.java:76)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:168)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:144)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:168)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:130)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:656)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:346)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:397)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:935)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1826)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1189)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:658)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+		at java.base/java.lang.Thread.run(Thread.java:1575)
+14-Jul-2025 18:03:29.316 WARNING [http-nio-8080-exec-11] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 18:03:29.498 WARNING [http-nio-8080-exec-11] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 18:03:38.479 WARNING [http-nio-8080-exec-20] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn Could not find action or result
+	There is no Action mapped for namespace / and action name signupurl. - [unknown location]
+		at com.opensymphony.xwork2.DefaultActionProxy.prepare(DefaultActionProxy.java:177)
+		at org.apache.struts2.impl.StrutsActionProxy.prepare(StrutsActionProxy.java:61)
+		at org.apache.struts2.impl.StrutsActionProxyFactory.createActionProxy(StrutsActionProxyFactory.java:39)
+		at com.opensymphony.xwork2.DefaultActionProxyFactory.createActionProxy(DefaultActionProxyFactory.java:47)
+		at org.apache.struts2.dispatcher.Dispatcher.serviceAction(Dispatcher.java:458)
+		at org.apache.struts2.dispatcher.ng.ExecuteOperations.executeAction(ExecuteOperations.java:77)
+		at org.apache.struts2.dispatcher.ng.filter.StrutsPrepareAndExecuteFilter.doFilter(StrutsPrepareAndExecuteFilter.java:76)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:168)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:144)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:168)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:130)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:656)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:346)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:397)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:935)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1826)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1189)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:658)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+		at java.base/java.lang.Thread.run(Thread.java:1575)
+14-Jul-2025 18:03:56.198 WARNING [http-nio-8080-exec-16] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn Could not find action or result
+	There is no Action mapped for namespace / and action name signupaction_logicalcode_action. - [unknown location]
+		at com.opensymphony.xwork2.DefaultActionProxy.prepare(DefaultActionProxy.java:177)
+		at org.apache.struts2.impl.StrutsActionProxy.prepare(StrutsActionProxy.java:61)
+		at org.apache.struts2.impl.StrutsActionProxyFactory.createActionProxy(StrutsActionProxyFactory.java:39)
+		at com.opensymphony.xwork2.DefaultActionProxyFactory.createActionProxy(DefaultActionProxyFactory.java:47)
+		at org.apache.struts2.dispatcher.Dispatcher.serviceAction(Dispatcher.java:458)
+		at org.apache.struts2.dispatcher.ng.ExecuteOperations.executeAction(ExecuteOperations.java:77)
+		at org.apache.struts2.dispatcher.ng.filter.StrutsPrepareAndExecuteFilter.doFilter(StrutsPrepareAndExecuteFilter.java:76)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:168)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:144)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:168)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:130)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:656)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:346)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:397)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:935)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1826)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1189)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:658)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+		at java.base/java.lang.Thread.run(Thread.java:1575)
+14-Jul-2025 18:04:02.184 WARNING [http-nio-8080-exec-13] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 18:04:02.204 WARNING [http-nio-8080-exec-13] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 18:04:30.976 WARNING [http-nio-8080-exec-15] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn Could not find action or result
+	There is no Action mapped for namespace / and action name signupurl. - [unknown location]
+		at com.opensymphony.xwork2.DefaultActionProxy.prepare(DefaultActionProxy.java:177)
+		at org.apache.struts2.impl.StrutsActionProxy.prepare(StrutsActionProxy.java:61)
+		at org.apache.struts2.impl.StrutsActionProxyFactory.createActionProxy(StrutsActionProxyFactory.java:39)
+		at com.opensymphony.xwork2.DefaultActionProxyFactory.createActionProxy(DefaultActionProxyFactory.java:47)
+		at org.apache.struts2.dispatcher.Dispatcher.serviceAction(Dispatcher.java:458)
+		at org.apache.struts2.dispatcher.ng.ExecuteOperations.executeAction(ExecuteOperations.java:77)
+		at org.apache.struts2.dispatcher.ng.filter.StrutsPrepareAndExecuteFilter.doFilter(StrutsPrepareAndExecuteFilter.java:76)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:168)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:144)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:168)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:130)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:656)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:346)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:397)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:935)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1826)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1189)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:658)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+		at java.base/java.lang.Thread.run(Thread.java:1575)
+14-Jul-2025 18:04:38.767 WARNING [http-nio-8080-exec-11] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 18:04:38.785 WARNING [http-nio-8080-exec-11] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 18:04:42.097 WARNING [http-nio-8080-exec-19] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn Could not find action or result
+	There is no Action mapped for namespace / and action name signupaction_logicalcode_action. - [unknown location]
+		at com.opensymphony.xwork2.DefaultActionProxy.prepare(DefaultActionProxy.java:177)
+		at org.apache.struts2.impl.StrutsActionProxy.prepare(StrutsActionProxy.java:61)
+		at org.apache.struts2.impl.StrutsActionProxyFactory.createActionProxy(StrutsActionProxyFactory.java:39)
+		at com.opensymphony.xwork2.DefaultActionProxyFactory.createActionProxy(DefaultActionProxyFactory.java:47)
+		at org.apache.struts2.dispatcher.Dispatcher.serviceAction(Dispatcher.java:458)
+		at org.apache.struts2.dispatcher.ng.ExecuteOperations.executeAction(ExecuteOperations.java:77)
+		at org.apache.struts2.dispatcher.ng.filter.StrutsPrepareAndExecuteFilter.doFilter(StrutsPrepareAndExecuteFilter.java:76)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:168)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:144)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:168)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:130)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:656)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:346)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:397)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:935)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1826)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1189)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:658)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+		at java.base/java.lang.Thread.run(Thread.java:1575)
+14-Jul-2025 18:04:47.511 WARNING [http-nio-8080-exec-20] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn Could not find action or result
+	There is no Action mapped for namespace / and action name signupaction_logicalcode_action. - [unknown location]
+		at com.opensymphony.xwork2.DefaultActionProxy.prepare(DefaultActionProxy.java:177)
+		at org.apache.struts2.impl.StrutsActionProxy.prepare(StrutsActionProxy.java:61)
+		at org.apache.struts2.impl.StrutsActionProxyFactory.createActionProxy(StrutsActionProxyFactory.java:39)
+		at com.opensymphony.xwork2.DefaultActionProxyFactory.createActionProxy(DefaultActionProxyFactory.java:47)
+		at org.apache.struts2.dispatcher.Dispatcher.serviceAction(Dispatcher.java:458)
+		at org.apache.struts2.dispatcher.ng.ExecuteOperations.executeAction(ExecuteOperations.java:77)
+		at org.apache.struts2.dispatcher.ng.filter.StrutsPrepareAndExecuteFilter.doFilter(StrutsPrepareAndExecuteFilter.java:76)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:168)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:144)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:168)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:130)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:656)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:346)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:397)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:935)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1826)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1189)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:658)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+		at java.base/java.lang.Thread.run(Thread.java:1575)
+14-Jul-2025 18:06:26.931 WARNING [http-nio-8080-exec-20] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 18:06:26.958 WARNING [http-nio-8080-exec-20] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 18:06:31.673 WARNING [http-nio-8080-exec-15] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 18:06:31.684 WARNING [http-nio-8080-exec-15] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 18:06:32.626 WARNING [http-nio-8080-exec-19] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 18:06:32.653 WARNING [http-nio-8080-exec-19] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 18:06:32.758 WARNING [http-nio-8080-exec-17] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 18:06:32.766 WARNING [http-nio-8080-exec-17] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 18:06:32.891 WARNING [http-nio-8080-exec-16] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 18:06:32.902 WARNING [http-nio-8080-exec-16] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 18:06:41.824 WARNING [http-nio-8080-exec-14] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 18:06:41.853 WARNING [http-nio-8080-exec-14] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 18:06:44.429 WARNING [http-nio-8080-exec-12] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 18:06:44.448 WARNING [http-nio-8080-exec-12] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 18:06:44.618 WARNING [http-nio-8080-exec-19] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 18:06:44.626 WARNING [http-nio-8080-exec-19] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 18:06:44.745 WARNING [http-nio-8080-exec-17] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 18:06:44.748 WARNING [http-nio-8080-exec-17] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 18:06:44.908 WARNING [http-nio-8080-exec-11] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 18:06:44.921 WARNING [http-nio-8080-exec-11] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 18:06:45.039 WARNING [http-nio-8080-exec-18] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 18:06:45.049 WARNING [http-nio-8080-exec-18] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 18:06:45.172 WARNING [http-nio-8080-exec-12] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 18:06:45.178 WARNING [http-nio-8080-exec-12] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 18:07:27.158 WARNING [http-nio-8080-exec-17] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn Could not find action or result
+	There is no Action mapped for namespace / and action name signupurl. - [unknown location]
+		at com.opensymphony.xwork2.DefaultActionProxy.prepare(DefaultActionProxy.java:177)
+		at org.apache.struts2.impl.StrutsActionProxy.prepare(StrutsActionProxy.java:61)
+		at org.apache.struts2.impl.StrutsActionProxyFactory.createActionProxy(StrutsActionProxyFactory.java:39)
+		at com.opensymphony.xwork2.DefaultActionProxyFactory.createActionProxy(DefaultActionProxyFactory.java:47)
+		at org.apache.struts2.dispatcher.Dispatcher.serviceAction(Dispatcher.java:458)
+		at org.apache.struts2.dispatcher.ng.ExecuteOperations.executeAction(ExecuteOperations.java:77)
+		at org.apache.struts2.dispatcher.ng.filter.StrutsPrepareAndExecuteFilter.doFilter(StrutsPrepareAndExecuteFilter.java:76)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:168)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:144)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:168)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:130)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:656)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:346)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:397)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:935)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1826)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1189)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:658)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+		at java.base/java.lang.Thread.run(Thread.java:1575)
+14-Jul-2025 18:07:37.884 WARNING [http-nio-8080-exec-20] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn Could not find action or result
+	There is no Action mapped for namespace / and action name signupaction_logicalcode_action. - [unknown location]
+		at com.opensymphony.xwork2.DefaultActionProxy.prepare(DefaultActionProxy.java:177)
+		at org.apache.struts2.impl.StrutsActionProxy.prepare(StrutsActionProxy.java:61)
+		at org.apache.struts2.impl.StrutsActionProxyFactory.createActionProxy(StrutsActionProxyFactory.java:39)
+		at com.opensymphony.xwork2.DefaultActionProxyFactory.createActionProxy(DefaultActionProxyFactory.java:47)
+		at org.apache.struts2.dispatcher.Dispatcher.serviceAction(Dispatcher.java:458)
+		at org.apache.struts2.dispatcher.ng.ExecuteOperations.executeAction(ExecuteOperations.java:77)
+		at org.apache.struts2.dispatcher.ng.filter.StrutsPrepareAndExecuteFilter.doFilter(StrutsPrepareAndExecuteFilter.java:76)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:168)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:144)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:168)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:130)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:656)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:346)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:397)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:935)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1826)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1189)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:658)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+		at java.base/java.lang.Thread.run(Thread.java:1575)
+14-Jul-2025 18:10:19.246 WARNING [http-nio-8080-exec-11] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn Could not find action or result
+	There is no Action mapped for namespace / and action name signupurl. - [unknown location]
+		at com.opensymphony.xwork2.DefaultActionProxy.prepare(DefaultActionProxy.java:177)
+		at org.apache.struts2.impl.StrutsActionProxy.prepare(StrutsActionProxy.java:61)
+		at org.apache.struts2.impl.StrutsActionProxyFactory.createActionProxy(StrutsActionProxyFactory.java:39)
+		at com.opensymphony.xwork2.DefaultActionProxyFactory.createActionProxy(DefaultActionProxyFactory.java:47)
+		at org.apache.struts2.dispatcher.Dispatcher.serviceAction(Dispatcher.java:458)
+		at org.apache.struts2.dispatcher.ng.ExecuteOperations.executeAction(ExecuteOperations.java:77)
+		at org.apache.struts2.dispatcher.ng.filter.StrutsPrepareAndExecuteFilter.doFilter(StrutsPrepareAndExecuteFilter.java:76)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:168)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:144)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:168)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:130)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:656)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:346)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:397)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:935)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1826)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1189)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:658)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+		at java.base/java.lang.Thread.run(Thread.java:1575)
+14-Jul-2025 18:10:27.510 WARNING [http-nio-8080-exec-16] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 18:10:27.530 WARNING [http-nio-8080-exec-16] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 18:12:52.410 WARNING [http-nio-8080-exec-15] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 18:12:52.434 WARNING [http-nio-8080-exec-15] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 18:13:15.599 WARNING [http-nio-8080-exec-18] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn Could not find action or result
+	There is no Action mapped for namespace / and action name signupurl. - [unknown location]
+		at com.opensymphony.xwork2.DefaultActionProxy.prepare(DefaultActionProxy.java:177)
+		at org.apache.struts2.impl.StrutsActionProxy.prepare(StrutsActionProxy.java:61)
+		at org.apache.struts2.impl.StrutsActionProxyFactory.createActionProxy(StrutsActionProxyFactory.java:39)
+		at com.opensymphony.xwork2.DefaultActionProxyFactory.createActionProxy(DefaultActionProxyFactory.java:47)
+		at org.apache.struts2.dispatcher.Dispatcher.serviceAction(Dispatcher.java:458)
+		at org.apache.struts2.dispatcher.ng.ExecuteOperations.executeAction(ExecuteOperations.java:77)
+		at org.apache.struts2.dispatcher.ng.filter.StrutsPrepareAndExecuteFilter.doFilter(StrutsPrepareAndExecuteFilter.java:76)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:168)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:144)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:168)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:130)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:656)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:346)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:397)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:935)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1826)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1189)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:658)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+		at java.base/java.lang.Thread.run(Thread.java:1575)
+14-Jul-2025 18:13:40.693 INFO [http-nio-8080-exec-16] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/TestWeb] has started
+14-Jul-2025 18:13:41.294 INFO [http-nio-8080-exec-16] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+14-Jul-2025 18:13:41.392 INFO [http-nio-8080-exec-16] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Parsing configuration file [struts-default.xml]
+14-Jul-2025 18:13:41.452 INFO [http-nio-8080-exec-16] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Parsing configuration file [struts-plugin.xml]
+14-Jul-2025 18:13:41.462 INFO [http-nio-8080-exec-16] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Parsing configuration file [struts.xml]
+14-Jul-2025 18:13:41.626 INFO [http-nio-8080-exec-16] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/TestWeb] is completed
+14-Jul-2025 18:15:17.576 INFO [http-nio-8080-exec-22] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/TestWeb] has started
+14-Jul-2025 18:15:17.990 INFO [http-nio-8080-exec-22] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+14-Jul-2025 18:15:18.048 INFO [http-nio-8080-exec-22] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Parsing configuration file [struts-default.xml]
+14-Jul-2025 18:15:18.099 INFO [http-nio-8080-exec-22] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Parsing configuration file [struts-plugin.xml]
+14-Jul-2025 18:15:18.107 INFO [http-nio-8080-exec-22] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Parsing configuration file [struts.xml]
+14-Jul-2025 18:15:18.231 INFO [http-nio-8080-exec-22] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/TestWeb] is completed
+14-Jul-2025 18:15:25.276 WARNING [http-nio-8080-exec-21] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 18:15:25.529 WARNING [http-nio-8080-exec-21] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 18:15:30.625 INFO [http-nio-8080-exec-15] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Unable to find 'struts.multipart.saveDir' property setting. Defaulting to javax.servlet.context.tempdir
+14-Jul-2025 18:15:30.717 WARNING [http-nio-8080-exec-15] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn Could not find action or result
+	There is no Action mapped for namespace / and action name signupaction_logicalcode_action. - [unknown location]
+		at com.opensymphony.xwork2.DefaultActionProxy.prepare(DefaultActionProxy.java:177)
+		at org.apache.struts2.impl.StrutsActionProxy.prepare(StrutsActionProxy.java:61)
+		at org.apache.struts2.impl.StrutsActionProxyFactory.createActionProxy(StrutsActionProxyFactory.java:39)
+		at com.opensymphony.xwork2.DefaultActionProxyFactory.createActionProxy(DefaultActionProxyFactory.java:47)
+		at org.apache.struts2.dispatcher.Dispatcher.serviceAction(Dispatcher.java:458)
+		at org.apache.struts2.dispatcher.ng.ExecuteOperations.executeAction(ExecuteOperations.java:77)
+		at org.apache.struts2.dispatcher.ng.filter.StrutsPrepareAndExecuteFilter.doFilter(StrutsPrepareAndExecuteFilter.java:76)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:168)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:144)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:168)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:130)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:656)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:346)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:397)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:935)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1826)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1189)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:658)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+		at java.base/java.lang.Thread.run(Thread.java:1575)
+14-Jul-2025 18:16:19.099 WARNING [http-nio-8080-exec-12] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn Could not find action or result
+	There is no Action mapped for namespace / and action name signupaction_logicalcode_action. - [unknown location]
+		at com.opensymphony.xwork2.DefaultActionProxy.prepare(DefaultActionProxy.java:177)
+		at org.apache.struts2.impl.StrutsActionProxy.prepare(StrutsActionProxy.java:61)
+		at org.apache.struts2.impl.StrutsActionProxyFactory.createActionProxy(StrutsActionProxyFactory.java:39)
+		at com.opensymphony.xwork2.DefaultActionProxyFactory.createActionProxy(DefaultActionProxyFactory.java:47)
+		at org.apache.struts2.dispatcher.Dispatcher.serviceAction(Dispatcher.java:458)
+		at org.apache.struts2.dispatcher.ng.ExecuteOperations.executeAction(ExecuteOperations.java:77)
+		at org.apache.struts2.dispatcher.ng.filter.StrutsPrepareAndExecuteFilter.doFilter(StrutsPrepareAndExecuteFilter.java:76)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:168)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:144)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:168)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:130)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:656)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:346)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:397)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:935)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1826)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1189)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:658)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+		at java.base/java.lang.Thread.run(Thread.java:1575)
+14-Jul-2025 18:22:30.818 WARNING [http-nio-8080-exec-35] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 18:22:30.874 WARNING [http-nio-8080-exec-35] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 18:23:33.543 WARNING [http-nio-8080-exec-36] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 18:23:33.588 WARNING [http-nio-8080-exec-36] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 18:23:56.352 WARNING [http-nio-8080-exec-28] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 18:23:56.366 WARNING [http-nio-8080-exec-28] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 18:24:00.247 WARNING [http-nio-8080-exec-27] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 18:24:00.278 WARNING [http-nio-8080-exec-27] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 18:24:02.507 WARNING [http-nio-8080-exec-36] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 18:24:02.544 WARNING [http-nio-8080-exec-36] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 18:29:31.317 WARNING [http-nio-8080-exec-34] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 18:29:31.349 WARNING [http-nio-8080-exec-34] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 18:30:27.122 WARNING [http-nio-8080-exec-33] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 18:30:27.148 WARNING [http-nio-8080-exec-33] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 18:30:35.726 WARNING [http-nio-8080-exec-36] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 18:30:35.753 WARNING [http-nio-8080-exec-36] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 18:31:53.122 WARNING [http-nio-8080-exec-35] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 18:31:53.147 WARNING [http-nio-8080-exec-35] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 18:31:55.645 WARNING [http-nio-8080-exec-27] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 18:31:55.659 WARNING [http-nio-8080-exec-27] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 18:31:56.752 WARNING [http-nio-8080-exec-34] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 18:31:56.766 WARNING [http-nio-8080-exec-34] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 18:31:56.922 WARNING [http-nio-8080-exec-30] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 18:31:56.926 WARNING [http-nio-8080-exec-30] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 18:34:00.794 WARNING [http-nio-8080-exec-35] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 18:34:00.814 WARNING [http-nio-8080-exec-35] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 18:34:02.862 WARNING [http-nio-8080-exec-27] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 18:34:02.883 WARNING [http-nio-8080-exec-27] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 18:35:00.663 WARNING [http-nio-8080-exec-36] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 18:35:00.680 WARNING [http-nio-8080-exec-36] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 18:35:00.696 WARNING [http-nio-8080-exec-30] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn Could not find action or result
+	There is no Action mapped for namespace / and action name charging2. - [unknown location]
+		at com.opensymphony.xwork2.DefaultActionProxy.prepare(DefaultActionProxy.java:177)
+		at org.apache.struts2.impl.StrutsActionProxy.prepare(StrutsActionProxy.java:61)
+		at org.apache.struts2.impl.StrutsActionProxyFactory.createActionProxy(StrutsActionProxyFactory.java:39)
+		at com.opensymphony.xwork2.DefaultActionProxyFactory.createActionProxy(DefaultActionProxyFactory.java:47)
+		at org.apache.struts2.dispatcher.Dispatcher.serviceAction(Dispatcher.java:458)
+		at org.apache.struts2.dispatcher.ng.ExecuteOperations.executeAction(ExecuteOperations.java:77)
+		at org.apache.struts2.dispatcher.ng.filter.StrutsPrepareAndExecuteFilter.doFilter(StrutsPrepareAndExecuteFilter.java:76)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:168)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:144)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:168)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:130)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:656)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:346)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:397)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:935)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1826)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1189)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:658)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+		at java.base/java.lang.Thread.run(Thread.java:1575)
+14-Jul-2025 18:35:02.866 WARNING [http-nio-8080-exec-31] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 18:35:02.885 WARNING [http-nio-8080-exec-31] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 18:35:02.902 WARNING [http-nio-8080-exec-27] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn Could not find action or result
+	There is no Action mapped for namespace / and action name charging2. - [unknown location]
+		at com.opensymphony.xwork2.DefaultActionProxy.prepare(DefaultActionProxy.java:177)
+		at org.apache.struts2.impl.StrutsActionProxy.prepare(StrutsActionProxy.java:61)
+		at org.apache.struts2.impl.StrutsActionProxyFactory.createActionProxy(StrutsActionProxyFactory.java:39)
+		at com.opensymphony.xwork2.DefaultActionProxyFactory.createActionProxy(DefaultActionProxyFactory.java:47)
+		at org.apache.struts2.dispatcher.Dispatcher.serviceAction(Dispatcher.java:458)
+		at org.apache.struts2.dispatcher.ng.ExecuteOperations.executeAction(ExecuteOperations.java:77)
+		at org.apache.struts2.dispatcher.ng.filter.StrutsPrepareAndExecuteFilter.doFilter(StrutsPrepareAndExecuteFilter.java:76)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:168)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:144)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:168)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:130)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:656)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:346)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:397)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:935)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1826)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1189)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:658)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+		at java.base/java.lang.Thread.run(Thread.java:1575)
+14-Jul-2025 18:35:03.060 WARNING [http-nio-8080-exec-32] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 18:35:03.074 WARNING [http-nio-8080-exec-32] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 18:35:03.083 WARNING [http-nio-8080-exec-30] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn Could not find action or result
+	There is no Action mapped for namespace / and action name charging2. - [unknown location]
+		at com.opensymphony.xwork2.DefaultActionProxy.prepare(DefaultActionProxy.java:177)
+		at org.apache.struts2.impl.StrutsActionProxy.prepare(StrutsActionProxy.java:61)
+		at org.apache.struts2.impl.StrutsActionProxyFactory.createActionProxy(StrutsActionProxyFactory.java:39)
+		at com.opensymphony.xwork2.DefaultActionProxyFactory.createActionProxy(DefaultActionProxyFactory.java:47)
+		at org.apache.struts2.dispatcher.Dispatcher.serviceAction(Dispatcher.java:458)
+		at org.apache.struts2.dispatcher.ng.ExecuteOperations.executeAction(ExecuteOperations.java:77)
+		at org.apache.struts2.dispatcher.ng.filter.StrutsPrepareAndExecuteFilter.doFilter(StrutsPrepareAndExecuteFilter.java:76)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:168)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:144)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:168)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:130)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:656)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:346)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:397)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:935)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1826)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1189)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:658)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+		at java.base/java.lang.Thread.run(Thread.java:1575)
+14-Jul-2025 18:35:03.225 WARNING [http-nio-8080-exec-28] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 18:35:03.233 WARNING [http-nio-8080-exec-28] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 18:35:03.246 WARNING [http-nio-8080-exec-31] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn Could not find action or result
+	There is no Action mapped for namespace / and action name charging2. - [unknown location]
+		at com.opensymphony.xwork2.DefaultActionProxy.prepare(DefaultActionProxy.java:177)
+		at org.apache.struts2.impl.StrutsActionProxy.prepare(StrutsActionProxy.java:61)
+		at org.apache.struts2.impl.StrutsActionProxyFactory.createActionProxy(StrutsActionProxyFactory.java:39)
+		at com.opensymphony.xwork2.DefaultActionProxyFactory.createActionProxy(DefaultActionProxyFactory.java:47)
+		at org.apache.struts2.dispatcher.Dispatcher.serviceAction(Dispatcher.java:458)
+		at org.apache.struts2.dispatcher.ng.ExecuteOperations.executeAction(ExecuteOperations.java:77)
+		at org.apache.struts2.dispatcher.ng.filter.StrutsPrepareAndExecuteFilter.doFilter(StrutsPrepareAndExecuteFilter.java:76)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:168)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:144)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:168)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:130)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:656)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:346)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:397)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:935)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1826)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1189)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:658)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+		at java.base/java.lang.Thread.run(Thread.java:1575)
+14-Jul-2025 18:35:03.366 WARNING [http-nio-8080-exec-33] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 18:35:03.380 WARNING [http-nio-8080-exec-33] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 18:35:03.390 WARNING [http-nio-8080-exec-36] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn Could not find action or result
+	There is no Action mapped for namespace / and action name charging2. - [unknown location]
+		at com.opensymphony.xwork2.DefaultActionProxy.prepare(DefaultActionProxy.java:177)
+		at org.apache.struts2.impl.StrutsActionProxy.prepare(StrutsActionProxy.java:61)
+		at org.apache.struts2.impl.StrutsActionProxyFactory.createActionProxy(StrutsActionProxyFactory.java:39)
+		at com.opensymphony.xwork2.DefaultActionProxyFactory.createActionProxy(DefaultActionProxyFactory.java:47)
+		at org.apache.struts2.dispatcher.Dispatcher.serviceAction(Dispatcher.java:458)
+		at org.apache.struts2.dispatcher.ng.ExecuteOperations.executeAction(ExecuteOperations.java:77)
+		at org.apache.struts2.dispatcher.ng.filter.StrutsPrepareAndExecuteFilter.doFilter(StrutsPrepareAndExecuteFilter.java:76)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:168)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:144)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:168)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:130)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:656)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:346)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:397)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:935)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1826)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1189)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:658)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+		at java.base/java.lang.Thread.run(Thread.java:1575)
+14-Jul-2025 18:35:14.689 WARNING [http-nio-8080-exec-34] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 18:35:14.706 WARNING [http-nio-8080-exec-34] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 18:35:14.723 WARNING [http-nio-8080-exec-28] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn Could not find action or result
+	There is no Action mapped for namespace / and action name charging2. - [unknown location]
+		at com.opensymphony.xwork2.DefaultActionProxy.prepare(DefaultActionProxy.java:177)
+		at org.apache.struts2.impl.StrutsActionProxy.prepare(StrutsActionProxy.java:61)
+		at org.apache.struts2.impl.StrutsActionProxyFactory.createActionProxy(StrutsActionProxyFactory.java:39)
+		at com.opensymphony.xwork2.DefaultActionProxyFactory.createActionProxy(DefaultActionProxyFactory.java:47)
+		at org.apache.struts2.dispatcher.Dispatcher.serviceAction(Dispatcher.java:458)
+		at org.apache.struts2.dispatcher.ng.ExecuteOperations.executeAction(ExecuteOperations.java:77)
+		at org.apache.struts2.dispatcher.ng.filter.StrutsPrepareAndExecuteFilter.doFilter(StrutsPrepareAndExecuteFilter.java:76)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:168)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:144)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:168)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:130)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:656)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:346)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:397)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:935)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1826)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1189)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:658)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+		at java.base/java.lang.Thread.run(Thread.java:1575)
+14-Jul-2025 18:35:16.484 WARNING [http-nio-8080-exec-29] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 18:35:16.511 WARNING [http-nio-8080-exec-29] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 18:35:16.535 WARNING [http-nio-8080-exec-27] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn Could not find action or result
+	There is no Action mapped for namespace / and action name charging2. - [unknown location]
+		at com.opensymphony.xwork2.DefaultActionProxy.prepare(DefaultActionProxy.java:177)
+		at org.apache.struts2.impl.StrutsActionProxy.prepare(StrutsActionProxy.java:61)
+		at org.apache.struts2.impl.StrutsActionProxyFactory.createActionProxy(StrutsActionProxyFactory.java:39)
+		at com.opensymphony.xwork2.DefaultActionProxyFactory.createActionProxy(DefaultActionProxyFactory.java:47)
+		at org.apache.struts2.dispatcher.Dispatcher.serviceAction(Dispatcher.java:458)
+		at org.apache.struts2.dispatcher.ng.ExecuteOperations.executeAction(ExecuteOperations.java:77)
+		at org.apache.struts2.dispatcher.ng.filter.StrutsPrepareAndExecuteFilter.doFilter(StrutsPrepareAndExecuteFilter.java:76)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:168)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:144)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:168)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:130)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:656)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:346)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:397)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:935)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1826)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1189)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:658)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+		at java.base/java.lang.Thread.run(Thread.java:1575)
+14-Jul-2025 18:35:17.581 WARNING [http-nio-8080-exec-32] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 18:35:17.590 WARNING [http-nio-8080-exec-32] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 18:36:08.846 WARNING [http-nio-8080-exec-35] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 18:36:08.862 WARNING [http-nio-8080-exec-35] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 18:36:08.879 WARNING [http-nio-8080-exec-31] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn Could not find action or result
+	There is no Action mapped for namespace / and action name charging2. - [unknown location]
+		at com.opensymphony.xwork2.DefaultActionProxy.prepare(DefaultActionProxy.java:177)
+		at org.apache.struts2.impl.StrutsActionProxy.prepare(StrutsActionProxy.java:61)
+		at org.apache.struts2.impl.StrutsActionProxyFactory.createActionProxy(StrutsActionProxyFactory.java:39)
+		at com.opensymphony.xwork2.DefaultActionProxyFactory.createActionProxy(DefaultActionProxyFactory.java:47)
+		at org.apache.struts2.dispatcher.Dispatcher.serviceAction(Dispatcher.java:458)
+		at org.apache.struts2.dispatcher.ng.ExecuteOperations.executeAction(ExecuteOperations.java:77)
+		at org.apache.struts2.dispatcher.ng.filter.StrutsPrepareAndExecuteFilter.doFilter(StrutsPrepareAndExecuteFilter.java:76)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:168)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:144)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:168)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:130)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:656)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:346)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:397)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:935)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1826)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1189)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:658)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+		at java.base/java.lang.Thread.run(Thread.java:1575)
+14-Jul-2025 18:36:10.403 WARNING [http-nio-8080-exec-33] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 18:36:10.418 WARNING [http-nio-8080-exec-33] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 18:36:10.439 WARNING [http-nio-8080-exec-32] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn Could not find action or result
+	There is no Action mapped for namespace / and action name charging2. - [unknown location]
+		at com.opensymphony.xwork2.DefaultActionProxy.prepare(DefaultActionProxy.java:177)
+		at org.apache.struts2.impl.StrutsActionProxy.prepare(StrutsActionProxy.java:61)
+		at org.apache.struts2.impl.StrutsActionProxyFactory.createActionProxy(StrutsActionProxyFactory.java:39)
+		at com.opensymphony.xwork2.DefaultActionProxyFactory.createActionProxy(DefaultActionProxyFactory.java:47)
+		at org.apache.struts2.dispatcher.Dispatcher.serviceAction(Dispatcher.java:458)
+		at org.apache.struts2.dispatcher.ng.ExecuteOperations.executeAction(ExecuteOperations.java:77)
+		at org.apache.struts2.dispatcher.ng.filter.StrutsPrepareAndExecuteFilter.doFilter(StrutsPrepareAndExecuteFilter.java:76)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:168)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:144)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:168)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:130)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:656)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:346)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:397)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:935)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1826)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1189)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:658)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+		at java.base/java.lang.Thread.run(Thread.java:1575)
+14-Jul-2025 18:37:22.837 WARNING [http-nio-8080-exec-32] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 18:37:22.850 WARNING [http-nio-8080-exec-32] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 18:37:22.866 WARNING [http-nio-8080-exec-36] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn Could not find action or result
+	There is no Action mapped for namespace / and action name charging2. - [unknown location]
+		at com.opensymphony.xwork2.DefaultActionProxy.prepare(DefaultActionProxy.java:177)
+		at org.apache.struts2.impl.StrutsActionProxy.prepare(StrutsActionProxy.java:61)
+		at org.apache.struts2.impl.StrutsActionProxyFactory.createActionProxy(StrutsActionProxyFactory.java:39)
+		at com.opensymphony.xwork2.DefaultActionProxyFactory.createActionProxy(DefaultActionProxyFactory.java:47)
+		at org.apache.struts2.dispatcher.Dispatcher.serviceAction(Dispatcher.java:458)
+		at org.apache.struts2.dispatcher.ng.ExecuteOperations.executeAction(ExecuteOperations.java:77)
+		at org.apache.struts2.dispatcher.ng.filter.StrutsPrepareAndExecuteFilter.doFilter(StrutsPrepareAndExecuteFilter.java:76)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:168)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:144)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:168)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:130)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:656)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:346)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:397)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:935)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1826)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1189)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:658)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+		at java.base/java.lang.Thread.run(Thread.java:1575)
+14-Jul-2025 18:38:15.149 WARNING [http-nio-8080-exec-31] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 18:38:15.160 WARNING [http-nio-8080-exec-31] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 18:38:15.176 WARNING [http-nio-8080-exec-34] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn Could not find action or result
+	There is no Action mapped for namespace / and action name charging2. - [unknown location]
+		at com.opensymphony.xwork2.DefaultActionProxy.prepare(DefaultActionProxy.java:177)
+		at org.apache.struts2.impl.StrutsActionProxy.prepare(StrutsActionProxy.java:61)
+		at org.apache.struts2.impl.StrutsActionProxyFactory.createActionProxy(StrutsActionProxyFactory.java:39)
+		at com.opensymphony.xwork2.DefaultActionProxyFactory.createActionProxy(DefaultActionProxyFactory.java:47)
+		at org.apache.struts2.dispatcher.Dispatcher.serviceAction(Dispatcher.java:458)
+		at org.apache.struts2.dispatcher.ng.ExecuteOperations.executeAction(ExecuteOperations.java:77)
+		at org.apache.struts2.dispatcher.ng.filter.StrutsPrepareAndExecuteFilter.doFilter(StrutsPrepareAndExecuteFilter.java:76)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:168)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:144)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:168)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:130)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:656)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:346)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:397)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:935)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1826)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1189)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:658)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+		at java.base/java.lang.Thread.run(Thread.java:1575)
+14-Jul-2025 18:38:16.276 WARNING [http-nio-8080-exec-29] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 18:38:16.294 WARNING [http-nio-8080-exec-29] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 18:38:16.308 WARNING [http-nio-8080-exec-30] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn Could not find action or result
+	There is no Action mapped for namespace / and action name charging2. - [unknown location]
+		at com.opensymphony.xwork2.DefaultActionProxy.prepare(DefaultActionProxy.java:177)
+		at org.apache.struts2.impl.StrutsActionProxy.prepare(StrutsActionProxy.java:61)
+		at org.apache.struts2.impl.StrutsActionProxyFactory.createActionProxy(StrutsActionProxyFactory.java:39)
+		at com.opensymphony.xwork2.DefaultActionProxyFactory.createActionProxy(DefaultActionProxyFactory.java:47)
+		at org.apache.struts2.dispatcher.Dispatcher.serviceAction(Dispatcher.java:458)
+		at org.apache.struts2.dispatcher.ng.ExecuteOperations.executeAction(ExecuteOperations.java:77)
+		at org.apache.struts2.dispatcher.ng.filter.StrutsPrepareAndExecuteFilter.doFilter(StrutsPrepareAndExecuteFilter.java:76)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:168)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:144)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:168)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:130)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:656)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:346)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:397)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:935)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1826)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1189)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:658)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+		at java.base/java.lang.Thread.run(Thread.java:1575)
+14-Jul-2025 18:38:16.420 WARNING [http-nio-8080-exec-36] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 18:38:16.430 WARNING [http-nio-8080-exec-36] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 18:38:16.447 WARNING [http-nio-8080-exec-33] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn Could not find action or result
+	There is no Action mapped for namespace / and action name charging2. - [unknown location]
+		at com.opensymphony.xwork2.DefaultActionProxy.prepare(DefaultActionProxy.java:177)
+		at org.apache.struts2.impl.StrutsActionProxy.prepare(StrutsActionProxy.java:61)
+		at org.apache.struts2.impl.StrutsActionProxyFactory.createActionProxy(StrutsActionProxyFactory.java:39)
+		at com.opensymphony.xwork2.DefaultActionProxyFactory.createActionProxy(DefaultActionProxyFactory.java:47)
+		at org.apache.struts2.dispatcher.Dispatcher.serviceAction(Dispatcher.java:458)
+		at org.apache.struts2.dispatcher.ng.ExecuteOperations.executeAction(ExecuteOperations.java:77)
+		at org.apache.struts2.dispatcher.ng.filter.StrutsPrepareAndExecuteFilter.doFilter(StrutsPrepareAndExecuteFilter.java:76)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:168)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:144)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:168)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:130)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:656)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:346)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:397)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:935)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1826)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1189)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:658)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+		at java.base/java.lang.Thread.run(Thread.java:1575)
+14-Jul-2025 18:38:16.573 WARNING [http-nio-8080-exec-28] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 18:38:16.579 WARNING [http-nio-8080-exec-28] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 18:38:16.590 WARNING [http-nio-8080-exec-29] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn Could not find action or result
+	There is no Action mapped for namespace / and action name charging2. - [unknown location]
+		at com.opensymphony.xwork2.DefaultActionProxy.prepare(DefaultActionProxy.java:177)
+		at org.apache.struts2.impl.StrutsActionProxy.prepare(StrutsActionProxy.java:61)
+		at org.apache.struts2.impl.StrutsActionProxyFactory.createActionProxy(StrutsActionProxyFactory.java:39)
+		at com.opensymphony.xwork2.DefaultActionProxyFactory.createActionProxy(DefaultActionProxyFactory.java:47)
+		at org.apache.struts2.dispatcher.Dispatcher.serviceAction(Dispatcher.java:458)
+		at org.apache.struts2.dispatcher.ng.ExecuteOperations.executeAction(ExecuteOperations.java:77)
+		at org.apache.struts2.dispatcher.ng.filter.StrutsPrepareAndExecuteFilter.doFilter(StrutsPrepareAndExecuteFilter.java:76)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:168)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:144)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:168)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:130)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:656)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:346)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:397)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:935)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1826)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1189)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:658)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+		at java.base/java.lang.Thread.run(Thread.java:1575)
+14-Jul-2025 18:38:40.249 WARNING [http-nio-8080-exec-36] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 18:38:40.260 WARNING [http-nio-8080-exec-36] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 18:39:57.935 WARNING [http-nio-8080-exec-27] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 18:39:57.950 WARNING [http-nio-8080-exec-27] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 18:40:34.422 WARNING [http-nio-8080-exec-30] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 18:40:34.433 WARNING [http-nio-8080-exec-30] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 18:43:45.140 WARNING [http-nio-8080-exec-36] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 18:43:45.171 WARNING [http-nio-8080-exec-36] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 18:46:53.338 WARNING [http-nio-8080-exec-31] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 18:46:53.353 WARNING [http-nio-8080-exec-31] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 18:47:16.479 WARNING [http-nio-8080-exec-32] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 18:47:16.492 WARNING [http-nio-8080-exec-32] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 18:47:19.138 WARNING [http-nio-8080-exec-27] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 18:47:19.149 WARNING [http-nio-8080-exec-27] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 18:47:21.606 WARNING [http-nio-8080-exec-34] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 18:47:21.625 WARNING [http-nio-8080-exec-34] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 18:47:22.615 WARNING [http-nio-8080-exec-36] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 18:47:22.621 WARNING [http-nio-8080-exec-36] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 18:47:22.816 WARNING [http-nio-8080-exec-30] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 18:47:22.820 WARNING [http-nio-8080-exec-30] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 18:47:22.977 WARNING [http-nio-8080-exec-28] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 18:47:22.986 WARNING [http-nio-8080-exec-28] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 18:47:23.105 WARNING [http-nio-8080-exec-27] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 18:47:23.107 WARNING [http-nio-8080-exec-27] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 18:47:56.389 WARNING [http-nio-8080-exec-34] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 18:47:56.405 WARNING [http-nio-8080-exec-34] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 18:47:59.906 WARNING [http-nio-8080-exec-28] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 18:47:59.924 WARNING [http-nio-8080-exec-28] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 18:48:01.761 WARNING [http-nio-8080-exec-35] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 18:48:01.786 WARNING [http-nio-8080-exec-35] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 18:48:04.593 WARNING [http-nio-8080-exec-30] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 18:48:04.608 WARNING [http-nio-8080-exec-30] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 18:48:05.742 WARNING [http-nio-8080-exec-31] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 18:48:05.758 WARNING [http-nio-8080-exec-31] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 18:48:56.140 WARNING [http-nio-8080-exec-36] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 18:48:56.159 WARNING [http-nio-8080-exec-36] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 18:48:59.006 WARNING [http-nio-8080-exec-27] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 18:48:59.010 WARNING [http-nio-8080-exec-27] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 18:50:36.071 WARNING [http-nio-8080-exec-33] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 18:50:36.088 WARNING [http-nio-8080-exec-33] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 18:50:49.631 WARNING [http-nio-8080-exec-30] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 18:50:49.640 WARNING [http-nio-8080-exec-30] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 18:52:00.040 WARNING [http-nio-8080-exec-33] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 18:52:00.054 WARNING [http-nio-8080-exec-33] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 18:52:29.310 WARNING [http-nio-8080-exec-28] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 18:52:29.320 WARNING [http-nio-8080-exec-28] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 18:53:20.921 WARNING [http-nio-8080-exec-32] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 18:53:20.944 WARNING [http-nio-8080-exec-32] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 18:53:32.835 WARNING [http-nio-8080-exec-33] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 18:53:32.853 WARNING [http-nio-8080-exec-33] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 18:56:21.186 WARNING [http-nio-8080-exec-27] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 18:56:21.198 WARNING [http-nio-8080-exec-27] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 18:57:37.384 WARNING [http-nio-8080-exec-30] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 18:57:37.405 WARNING [http-nio-8080-exec-30] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 18:58:47.004 WARNING [http-nio-8080-exec-27] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 18:58:47.023 WARNING [http-nio-8080-exec-27] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:01:33.919 WARNING [http-nio-8080-exec-27] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:01:33.930 WARNING [http-nio-8080-exec-27] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:02:34.776 WARNING [http-nio-8080-exec-36] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:02:34.789 WARNING [http-nio-8080-exec-36] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:03:16.555 WARNING [http-nio-8080-exec-32] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:03:16.563 WARNING [http-nio-8080-exec-32] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:04:12.058 WARNING [http-nio-8080-exec-31] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:04:12.074 WARNING [http-nio-8080-exec-31] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:04:14.851 WARNING [http-nio-8080-exec-36] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:04:14.855 WARNING [http-nio-8080-exec-36] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:06:36.373 WARNING [http-nio-8080-exec-32] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:06:36.385 WARNING [http-nio-8080-exec-32] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:08:25.755 WARNING [http-nio-8080-exec-36] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:08:25.766 WARNING [http-nio-8080-exec-36] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:09:32.564 WARNING [http-nio-8080-exec-32] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:09:32.576 WARNING [http-nio-8080-exec-32] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:09:49.048 WARNING [http-nio-8080-exec-32] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:09:49.060 WARNING [http-nio-8080-exec-32] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:10:23.079 WARNING [http-nio-8080-exec-28] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:10:23.107 WARNING [http-nio-8080-exec-28] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:10:28.629 WARNING [http-nio-8080-exec-32] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:10:28.650 WARNING [http-nio-8080-exec-32] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:12:05.682 WARNING [http-nio-8080-exec-29] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:12:05.693 WARNING [http-nio-8080-exec-29] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:12:12.592 WARNING [http-nio-8080-exec-28] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:12:12.617 WARNING [http-nio-8080-exec-28] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:13:58.248 WARNING [http-nio-8080-exec-27] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:13:58.261 WARNING [http-nio-8080-exec-27] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:15:06.946 WARNING [http-nio-8080-exec-30] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:15:06.961 WARNING [http-nio-8080-exec-30] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:15:08.858 WARNING [http-nio-8080-exec-28] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:15:08.866 WARNING [http-nio-8080-exec-28] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:15:14.173 WARNING [http-nio-8080-exec-32] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:15:14.184 WARNING [http-nio-8080-exec-32] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:15:16.855 WARNING [http-nio-8080-exec-29] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:15:16.862 WARNING [http-nio-8080-exec-29] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:15:18.081 WARNING [http-nio-8080-exec-31] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:15:18.088 WARNING [http-nio-8080-exec-31] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:15:18.255 WARNING [http-nio-8080-exec-27] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:15:18.262 WARNING [http-nio-8080-exec-27] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:15:18.444 WARNING [http-nio-8080-exec-33] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:15:18.450 WARNING [http-nio-8080-exec-33] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:15:26.473 WARNING [http-nio-8080-exec-35] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:15:26.487 WARNING [http-nio-8080-exec-35] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:15:26.634 WARNING [http-nio-8080-exec-28] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:15:26.638 WARNING [http-nio-8080-exec-28] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:15:26.826 WARNING [http-nio-8080-exec-34] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:15:26.831 WARNING [http-nio-8080-exec-34] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:15:27.112 WARNING [http-nio-8080-exec-33] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:15:27.115 WARNING [http-nio-8080-exec-33] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:15:29.155 WARNING [http-nio-8080-exec-31] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:15:29.160 WARNING [http-nio-8080-exec-31] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:15:29.300 WARNING [http-nio-8080-exec-32] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:15:29.303 WARNING [http-nio-8080-exec-32] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:15:29.492 WARNING [http-nio-8080-exec-29] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:15:29.497 WARNING [http-nio-8080-exec-29] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:15:29.831 WARNING [http-nio-8080-exec-35] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:15:29.835 WARNING [http-nio-8080-exec-35] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:15:29.884 WARNING [http-nio-8080-exec-27] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:15:29.889 WARNING [http-nio-8080-exec-27] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:15:30.066 WARNING [http-nio-8080-exec-30] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:15:30.072 WARNING [http-nio-8080-exec-30] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:15:30.122 WARNING [http-nio-8080-exec-36] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:15:30.124 WARNING [http-nio-8080-exec-36] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:15:30.417 WARNING [http-nio-8080-exec-35] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:15:30.422 WARNING [http-nio-8080-exec-35] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:15:30.651 WARNING [http-nio-8080-exec-27] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:15:30.659 WARNING [http-nio-8080-exec-27] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:17:06.362 WARNING [http-nio-8080-exec-33] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:17:06.375 WARNING [http-nio-8080-exec-33] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:17:13.672 WARNING [http-nio-8080-exec-28] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: ''. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:17:13.703 WARNING [http-nio-8080-exec-28] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: ''. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:17:20.322 WARNING [http-nio-8080-exec-32] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:17:20.341 WARNING [http-nio-8080-exec-32] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:18:14.817 WARNING [http-nio-8080-exec-34] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:18:14.831 WARNING [http-nio-8080-exec-34] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:18:55.582 WARNING [http-nio-8080-exec-33] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:18:55.592 WARNING [http-nio-8080-exec-33] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:19:56.097 WARNING [http-nio-8080-exec-29] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:19:56.107 WARNING [http-nio-8080-exec-29] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:20:22.305 WARNING [http-nio-8080-exec-28] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:20:22.321 WARNING [http-nio-8080-exec-28] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:21:12.197 WARNING [http-nio-8080-exec-32] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:21:12.208 WARNING [http-nio-8080-exec-32] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:22:39.689 WARNING [http-nio-8080-exec-30] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:22:39.701 WARNING [http-nio-8080-exec-30] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:22:42.175 WARNING [http-nio-8080-exec-31] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:22:42.184 WARNING [http-nio-8080-exec-31] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:22:57.890 WARNING [http-nio-8080-exec-31] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:22:57.912 WARNING [http-nio-8080-exec-31] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:23:32.945 WARNING [http-nio-8080-exec-29] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:23:32.966 WARNING [http-nio-8080-exec-29] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:23:55.905 WARNING [http-nio-8080-exec-30] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: ''. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:23:55.934 WARNING [http-nio-8080-exec-30] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: ''. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:23:58.922 WARNING [http-nio-8080-exec-31] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: ''. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:23:58.944 WARNING [http-nio-8080-exec-31] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: ''. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:23:59.495 WARNING [http-nio-8080-exec-28] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: ''. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:23:59.519 WARNING [http-nio-8080-exec-28] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: ''. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:23:59.633 WARNING [http-nio-8080-exec-27] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: ''. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:23:59.635 WARNING [http-nio-8080-exec-27] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: ''. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:23:59.854 WARNING [http-nio-8080-exec-33] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: ''. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:23:59.868 WARNING [http-nio-8080-exec-33] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: ''. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:24:00.154 WARNING [http-nio-8080-exec-36] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: ''. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:24:00.154 WARNING [http-nio-8080-exec-28] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: ''. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:24:00.162 WARNING [http-nio-8080-exec-28] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: ''. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:24:00.162 WARNING [http-nio-8080-exec-36] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: ''. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:24:00.426 WARNING [http-nio-8080-exec-27] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: ''. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:24:00.437 WARNING [http-nio-8080-exec-27] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: ''. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:24:01.391 WARNING [http-nio-8080-exec-33] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: ''. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:24:01.422 WARNING [http-nio-8080-exec-33] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: ''. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:24:01.550 WARNING [http-nio-8080-exec-28] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: ''. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:24:01.552 WARNING [http-nio-8080-exec-28] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: ''. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:24:01.759 WARNING [http-nio-8080-exec-32] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: ''. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:24:01.766 WARNING [http-nio-8080-exec-32] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: ''. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:24:02.045 WARNING [http-nio-8080-exec-34] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: ''. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:24:02.045 WARNING [http-nio-8080-exec-33] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: ''. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:24:02.052 WARNING [http-nio-8080-exec-34] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: ''. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:24:02.052 WARNING [http-nio-8080-exec-33] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: ''. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:24:02.330 WARNING [http-nio-8080-exec-28] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: ''. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:24:02.339 WARNING [http-nio-8080-exec-28] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: ''. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:24:17.804 WARNING [http-nio-8080-exec-28] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: ''. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:24:17.817 WARNING [http-nio-8080-exec-28] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: ''. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:24:20.261 WARNING [http-nio-8080-exec-32] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: ''. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:24:20.272 WARNING [http-nio-8080-exec-32] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: ''. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:24:23.524 WARNING [http-nio-8080-exec-33] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: ''. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:24:23.544 WARNING [http-nio-8080-exec-33] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: ''. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:25:10.955 WARNING [http-nio-8080-exec-34] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: ''. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:25:10.971 WARNING [http-nio-8080-exec-34] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: ''. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:25:53.677 WARNING [http-nio-8080-exec-31] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: ''. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:25:53.688 WARNING [http-nio-8080-exec-31] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: ''. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:26:04.984 WARNING [http-nio-8080-exec-28] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: ''. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:26:04.995 WARNING [http-nio-8080-exec-28] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: ''. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:26:15.489 WARNING [http-nio-8080-exec-28] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: ''. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:26:15.508 WARNING [http-nio-8080-exec-28] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: ''. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:26:43.096 WARNING [http-nio-8080-exec-33] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:26:43.118 WARNING [http-nio-8080-exec-33] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:26:45.183 WARNING [http-nio-8080-exec-34] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:26:45.196 WARNING [http-nio-8080-exec-34] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:30:42.603 WARNING [http-nio-8080-exec-28] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:30:42.620 WARNING [http-nio-8080-exec-28] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:30:53.984 WARNING [http-nio-8080-exec-28] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:30:53.997 WARNING [http-nio-8080-exec-28] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:32:23.428 WARNING [http-nio-8080-exec-35] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:32:23.439 WARNING [http-nio-8080-exec-35] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:34:26.909 WARNING [http-nio-8080-exec-27] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:34:26.920 WARNING [http-nio-8080-exec-27] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:34:29.164 WARNING [http-nio-8080-exec-28] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:34:29.178 WARNING [http-nio-8080-exec-28] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:34:34.403 WARNING [http-nio-8080-exec-28] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:34:34.415 WARNING [http-nio-8080-exec-28] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:34:55.841 WARNING [http-nio-8080-exec-29] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:34:55.857 WARNING [http-nio-8080-exec-29] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:36:05.434 WARNING [http-nio-8080-exec-33] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:36:05.445 WARNING [http-nio-8080-exec-33] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:36:23.681 WARNING [http-nio-8080-exec-28] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:36:23.689 WARNING [http-nio-8080-exec-28] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:38:53.851 WARNING [http-nio-8080-exec-33] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:38:53.860 WARNING [http-nio-8080-exec-33] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:39:40.560 WARNING [http-nio-8080-exec-30] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:39:40.578 WARNING [http-nio-8080-exec-30] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:44:22.362 WARNING [http-nio-8080-exec-36] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:44:22.372 WARNING [http-nio-8080-exec-36] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:45:10.300 WARNING [http-nio-8080-exec-30] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:45:10.311 WARNING [http-nio-8080-exec-30] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:45:27.117 WARNING [http-nio-8080-exec-30] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:45:27.128 WARNING [http-nio-8080-exec-30] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:45:31.066 WARNING [http-nio-8080-exec-27] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:45:31.073 WARNING [http-nio-8080-exec-27] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:46:05.922 WARNING [http-nio-8080-exec-29] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:46:05.932 WARNING [http-nio-8080-exec-29] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:48:47.790 WARNING [http-nio-8080-exec-27] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:48:47.809 WARNING [http-nio-8080-exec-27] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'signupaction_logicalcode_action.action' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+14-Jul-2025 19:49:29.860 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+14-Jul-2025 19:49:29.866 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+14-Jul-2025 19:49:29.879 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+14-Jul-2025 19:49:29.950 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+14-Jul-2025 19:49:29.971 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
