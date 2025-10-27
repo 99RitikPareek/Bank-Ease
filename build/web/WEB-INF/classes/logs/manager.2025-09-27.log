@@ -1,0 +1,12 @@
+27-Sep-2025 17:27:03.049 INFO [http-nio-8080-exec-5] org.apache.catalina.core.ApplicationContext.log Manager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+27-Sep-2025 17:27:03.051 INFO [http-nio-8080-exec-5] org.apache.catalina.core.ApplicationContext.log Manager: init: Global resources are available
+27-Sep-2025 17:27:03.138 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+27-Sep-2025 17:27:03.148 INFO [http-nio-8080-exec-10] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+27-Sep-2025 18:01:21.890 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+27-Sep-2025 18:01:21.909 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+27-Sep-2025 18:01:21.931 INFO [http-nio-8080-exec-1] org.apache.catalina.core.ApplicationContext.log Manager: install: Installing context configuration at 'file:/var/folders/81/74rdf9nj47d3x623bsly7v340000gn/T/context4799090199803107880.xml'
+27-Sep-2025 18:01:22.180 INFO [http-nio-8080-exec-10] org.apache.catalina.core.ApplicationContext.log Manager: start: Starting web application '/WebApplication2'
+27-Sep-2025 18:02:46.728 INFO [http-nio-8080-exec-5] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+27-Sep-2025 18:02:46.735 INFO [http-nio-8080-exec-7] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+27-Sep-2025 18:09:12.454 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+27-Sep-2025 18:09:12.473 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/WebApplication2'
